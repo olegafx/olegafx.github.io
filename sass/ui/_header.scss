@@ -1,0 +1,25 @@
+header {
+	width: 100%;
+	background: #fff;
+}
+
+header .h-wrap {
+	padding: 20px 40px;
+}
+
+header .h-wrap h1.title {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	font-size: 26px;
+	font-weight: normal;
+}
+
+header .h-wrap h1.title a {
+	color: #333;
+	text-decoration: none;
+}
+
+header .h-wrap h1.title a:hover {
+	color: #39f;
+}

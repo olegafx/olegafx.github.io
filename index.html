@@ -1,1 +1,20 @@
-Hello World
+---
+layout: default
+title: Олег Кислицын
+---
+
+<div class="blog-index">
+	{% assign post = site.posts.first %}
+	{% assign content = post.content %}
+	{% include post.html %}
+</div>
+
+<div id="home">
+  <ul class="posts">
+    {% for post in site.posts limit:5 offset:1 %}
+      <li>
+      	<a href="{{ post.url }}"><div class="p-wrap"><span class="date">{{ post.date | date_to_string }}</span> <p>{{ post.title }}</p></div></a>
+	  </li>
+    {% endfor %}
+  </ul>
+</div>

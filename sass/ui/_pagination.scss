@@ -1,0 +1,37 @@
+#prev,
+#next {
+	position: fixed;
+	text-decoration: none;
+	background: #fff;
+	border: 1px solid #eee;
+	padding: 10px;
+	line-height: 1;
+	border-radius: 25px;
+	bottom: 40px;
+	color: #333;
+}
+
+#prev {
+	left: 40px;
+}
+
+#next {
+	right: 40px;
+}
+
+#prev:active,
+#next:active {
+	border-color: #39f;
+}
+
+#prev:hover::after {
+	content: 'ранее';
+	margin-left: 10px;
+	margin-right: 5px;
+}
+
+#next:hover::before {
+	content: 'позднее';
+	margin-right: 10px;
+	margin-left: 5px;
+}

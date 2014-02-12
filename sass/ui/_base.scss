@@ -1,0 +1,50 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background: #fff;
+	color: #444;
+	font: 20px 'Open Sans', sans-serif;
+	text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	color: #333;
+}
+
+p {
+	margin: 1em 0;
+}
+
+small {
+	font-size: 50%;
+}
+
+p, small, blockquote {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: auto;
+}
+
+ul li {
+	list-style-type: circle;
+}
+
+ol li {
+	list-style-type: decimal;
+}
+
+a {
+	color: #39f;
+}
+
+a:hover {
+	color: #444;
+}
+
+img {
+	display: block;
+	margin: 0 0 15px;
+}

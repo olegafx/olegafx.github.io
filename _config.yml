@@ -1,0 +1,8 @@
+name: "Олег Кислицын"
+description: "Личный блог о разработке, крутых штуках и интересных наблюдениях."
+
+url: "http://olegafx.ru"
+
+markdown: rdiscount
+permalink: :year/:month/:title.html
+pygments: true
