@@ -1,0 +1,10 @@
+{
+	"cssPath": "css/",
+	"cssLintConfigPath": "conf/csslint.json",
+	"cssMainMinFileName": "main.min.css",
+	"imagesPath": "images/",
+	"jsPath": "js/",
+	"jsMainMinFileName": "main.min.js",
+	"sassPath": "sass/",
+	"sassMainFileName": "main.scss"
+}
