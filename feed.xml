@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Олег Кислицын</title>
-		<description>Личный блог о разработке, крутых штуках и интересных наблюдениях.</description>
-		<link>http://olegafx.ru</link>
-		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Это случилось!</title>
-			<description>&lt;p&gt;Уже очень давно собирался завести себе блог, где можно постить мысли длиннее, чем 140 символов в Твиттере.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Олег Кислицын</title><description>Личный блог о разработке, крутых штуках и интересных наблюдениях.</description><link>http://olegafx.ru</link><atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml"/><item><title>Это случилось!</title><description>&lt;p&gt;Уже очень давно собирался завести себе блог, где можно постить мысли длиннее, чем 140 символов в Твиттере.&lt;/p&gt;
 
 &lt;p&gt;Есть очень много штук, которые на чужих сервисах-то нормально и не расскажешь.
 Поэтому, сделал свой без &lt;a href=&quot;http://lurkmore.to/%D0%A4%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D0%BA&quot;&gt;фатального недостатка&lt;/a&gt;.&lt;/p&gt;
@@ -24,11 +14,4 @@
 &lt;p&gt;Буду писать сюда про всякие интересные штуки, которые есть сейчас в мире разработки и не только.&lt;/p&gt;
 
 &lt;p&gt;Надеюсь, вам понравится. До скорых встреч! &lt;img class=&quot;emoji&quot; title=&quot;smile&quot; alt=&quot;smile&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/smile.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
-</description>
-			<pubDate>Wed, 12 Feb 2014 00:00:00 +0400</pubDate>
-			<link>http://olegafx.ru/это-случилось</link>
-			<guid isPermaLink="true">http://olegafx.ru/это-случилось</guid>
-		</item>
-		
-	</channel>
-</rss>
+</description><pubDate>Wed, 12 Feb 2014 00:00:00 +0400</pubDate><link>http://olegafx.ru/это-случилось</link><guid isPermaLink="true">http://olegafx.ru/это-случилось</guid></item></channel></rss>
