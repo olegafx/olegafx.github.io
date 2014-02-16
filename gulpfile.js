@@ -28,7 +28,7 @@ gulp.task('css', function () {
 });
 
 gulp.task('js', function () {
-	gulp.src(conf.jsPath + '**/*.js')
+	gulp.src([conf.jsPath + '**/*.js', '!' + conf.jsPath + 'main.min.js'])
 		.pipe(concat(conf.jsMainMinFileName))
 		.pipe(bytediff.start())
 		.pipe(uglify())
@@ -48,4 +48,4 @@ gulp.task('jslint', function () {
 		.pipe(jshint.reporter('default'));
 });
 
-gulp.task('default', ['css']);
+gulp.task('default', ['css', 'js']);
