@@ -28,7 +28,7 @@ gulp.task('css', function () {
 });
 
 gulp.task('js', function () {
-	gulp.src([conf.jsPath + '**/*.js', '!' + conf.jsPath + 'main.min.js'])
+	gulp.src([conf.jsPath + '*.js', '!' + conf.jsPath + 'main.min.js'])
 		.pipe(concat(conf.jsMainMinFileName))
 		.pipe(bytediff.start())
 		.pipe(uglify())
