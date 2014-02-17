@@ -6,3 +6,5 @@ url: "http://olegafx.ru"
 markdown: rdiscount
 permalink: :year/:month/:title.html
 pygments: true
+
+exclude: [node_modules, Rakefile, sass, bower.json, gulpfile.js, README.md]
