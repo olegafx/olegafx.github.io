@@ -7,6 +7,43 @@
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>CloudUp — сервис мгновенного обмена данными (+ бонус внутри)</title>
+			<description>&lt;p&gt;Есть огромное количество сервисов, позволяющих делать скриншоты и сразу же загружать их в облако. Скриншот можно посмотреть, зайдя по ссылке. То есть не надо ничего сохранять к себе на компьютер, мучаться с пересылкой по Skype или чему-то еще. Сделали скриншот, отправили ссылку. Люди сами посмотрят его в удобное для них время.&lt;/p&gt;
+
+&lt;p&gt;Например, есть &lt;a href=&quot;http://prntscr.com/&quot;&gt;LightShot&lt;/a&gt;. Можно &lt;a href=&quot;https://www.dropbox.com/help/1964/ru&quot;&gt;настроить Dropbox&lt;/a&gt;, чтобы он делал нечто подобное. Платный &lt;a href=&quot;https://droplr.com&quot;&gt;droplr&lt;/a&gt; умеет отправлять не только скриншоты, но и разные файлы — архивы, презентации, айдио-файлы и т.д.&lt;/p&gt;
+
+&lt;h3&gt;CloudUp&lt;/h3&gt;
+
+&lt;p&gt;На горизонте появился еще один подобный сервис — &lt;a href=&quot;https://cloudup.com&quot;&gt;CloudUp&lt;/a&gt;. В чем его особенности:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;можно пользоваться совершенно бесплатно и загружать до 1000 файлов по 200 мегабайт каждый&lt;/li&gt;
+&lt;li&gt;загрузка всех основных типов документов&lt;/li&gt;
+&lt;li&gt;начать просмотр по ссылке можно еще до того, как файл полностью загружен&lt;/li&gt;
+&lt;li&gt;одним из разработчиков является Guillermo Rauch — создатель &lt;a href=&quot;socket.io&quot;&gt;socket.io&lt;/a&gt;. Кстати, не забудьте посмотреть &lt;a href=&quot;https://cloudup.com/cMrYoTieM0c&quot;&gt;новый пример&lt;/a&gt; чата в master-ветке socket.io (вот и пример видео на сервисе CloudUp)&lt;/li&gt;
+&lt;li&gt;сервис и приложение, как я понимаю, написаны на &lt;a href=&quot;http://nodejs.org/&quot;&gt;NodeJS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Если вы цените скорость обмена данными и удобство этого дела, то советую попробовать данный сервис. Есть приложение для Windows, Mac. Веб-версия настолько крута, что ей можно спокойно пользоваться на телефоне.&lt;/p&gt;
+
+&lt;h3&gt;Бонусы&lt;/h3&gt;
+
+&lt;p&gt;Проект еще находится в стадии закрытого тестирования. У меня есть 10 инвайтов. Можете зарегистрироваться по &lt;a href=&quot;https://cloudup.com/s/olegafx-782&quot;&gt;этой ссылке&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Кстати, про сам сервис я узнал из этого замечательного &lt;a href=&quot;http://www.youtube.com/watch?v=Ar9R-CX217o&quot;&gt;доклада&lt;/a&gt;. Всем советую посмотреть и вдохновиться.&lt;/p&gt;
+
+&lt;iframe width=&quot;700&quot; height=&quot;394&quot; src=&quot;//www.youtube.com/embed/Ar9R-CX217o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;На этом всё. Есть мысли прикрутить комментарии к блогу. А пока можете писать мне в &lt;a href=&quot;http://twitter.com/olegafx/&quot;&gt;Twitter&lt;/a&gt; &lt;img class=&quot;emoji&quot; title=&quot;wink&quot; alt=&quot;wink&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/wink.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
+</description>
+			<pubDate>Fri, 21 Feb 2014 00:00:00 +0400</pubDate>
+			<link>http://olegafx.ru/cloudup-сервис-мгновенного-обмена-данными</link>
+			<guid isPermaLink="true">http://olegafx.ru/cloudup-сервис-мгновенного-обмена-данными</guid>
+		</item>
+		
+		<item>
 			<title>Чистый код</title>
 			<description>&lt;p&gt;Первый пост в этом блоге я хочу посвятить одной замечательной книге.
 Книге, которая полностью перевернула мой взгляд на написание кода для решения каких-то задач.&lt;/p&gt;
