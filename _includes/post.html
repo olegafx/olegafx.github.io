@@ -3,6 +3,9 @@
 		{% if post.title %}
 			<h1 class="page-title">{{ post.title }}</h1>
 		{% endif %}
+
 		{{ content }}
+
+		{% include disqus.html %}
 	</article>
 </section>
