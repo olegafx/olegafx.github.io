@@ -33,7 +33,7 @@
 
 &lt;p&gt;Кстати, про сам сервис я узнал из этого замечательного &lt;a href=&quot;http://www.youtube.com/watch?v=Ar9R-CX217o&quot;&gt;доклада&lt;/a&gt;. Всем советую посмотреть и вдохновиться.&lt;/p&gt;
 
-&lt;iframe width=&quot;700&quot; height=&quot;394&quot; src=&quot;//www.youtube.com/embed/Ar9R-CX217o&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&#39;embed-container&#39;&gt;&lt;iframe src=&#39;http://www.youtube.com/embed/Ar9R-CX217o&#39; frameborder=&#39;0&#39; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 
 &lt;p&gt;На этом всё. Есть мысли прикрутить комментарии к блогу. А пока можете писать мне в &lt;a href=&quot;http://twitter.com/olegafx/&quot;&gt;Twitter&lt;/a&gt; &lt;img class=&quot;emoji&quot; title=&quot;wink&quot; alt=&quot;wink&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/wink.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
