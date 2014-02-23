@@ -7,19 +7,15 @@ header .h-wrap {
 	padding: 20px 40px;
 }
 
-header .h-wrap h1.title {
-	display: inline-block;
-	margin: 0;
-	padding: 0;
-	font-size: 26px;
-	font-weight: normal;
+header .h-wrap .logo-icon {
+	font-size: 64px;
 }
 
-header .h-wrap h1.title a {
+header .h-wrap a.logo {
 	color: #333;
 	text-decoration: none;
 }
 
-header .h-wrap h1.title a:hover {
+header .h-wrap a.logo:hover {
 	color: #39f;
 }
