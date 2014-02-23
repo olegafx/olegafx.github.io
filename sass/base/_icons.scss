@@ -12,7 +12,7 @@
 	text-decoration: none;
 }
 
-.icon-clock, .icon-twitter, .icon-github, .icon-instagram {
+.icon-clock, .icon-instagram, .icon-logo, .icon-twitter, .icon-github {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -26,6 +26,10 @@
 	content: "\e600";
 }
 
+.icon-instagram:before {
+	content: "\e601";
+}
+
 .icon-twitter:before {
 	content: "\e602";
 }
@@ -34,6 +38,6 @@
 	content: "\e603";
 }
 
-.icon-instagram:before {
-	content: "\e601";
+.icon-logo:before {
+	content: "\e604";
 }
