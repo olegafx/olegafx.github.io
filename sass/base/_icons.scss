@@ -12,7 +12,7 @@
 	text-decoration: none;
 }
 
-.icon-twitter, .icon-github, .icon-dribbble, .icon-instagram {
+.icon-clock, .icon-twitter, .icon-github, .icon-instagram {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -22,15 +22,18 @@
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 }
+.icon-clock:before {
+	content: "\e600";
+}
 
 .icon-twitter:before {
-	content: "\e002";
+	content: "\e602";
 }
 
 .icon-github:before {
-	content: "\e003";
+	content: "\e603";
 }
 
 .icon-instagram:before {
-	content: "\e005";
+	content: "\e601";
 }

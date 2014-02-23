@@ -15,10 +15,10 @@
 #single-wrap .feat {
 	text-align: center;
 	border-bottom: 1px dotted #e0e1e6;
-	margin: 0 20px 50px;
+	margin: 0 20px 20px;
 }
 
-#single-wrap .feat h5.page-date {
+#single-wrap .feat time.page-date {
 	display: inline-block;
 	position: relative;
 	top: 11px;
@@ -54,6 +54,17 @@
 	text-align: center;
 	margin: 0 0 60px;
 	padding: 0 40px;
+}
+
+#single-wrap .page-date {
+	color: $colorGray;
+	padding: 0 40px;
+}
+
+#single-wrap .date-icon {
+	color: $colorGray;
+	margin: 0;
+	font-size: 16px;
 }
 
 #single-wrap p {
