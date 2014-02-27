@@ -13,7 +13,7 @@ title: Олег Кислицын
   <ul class="posts">
     {% for post in site.posts limit:5 offset:1 %}
       <li>
-      	<a href="{{ post.url }}"><div class="p-wrap"><span class="date">{{ post.date | localize: "%-d %B %Y" }}</span> <p>{{ post.title }}</p></div></a>
+      	<a href="{{ post.url }}"><div class="p-wrap"><span class="date">{{ post.date | localize: "%-d %b %Y" }}</span> <p>{{ post.title }}</p></div></a>
 	  </li>
     {% endfor %}
   </ul>
