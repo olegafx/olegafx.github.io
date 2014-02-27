@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atom — новый текстовый редактор от GitHub!
+title: Atom — новый текстовый редактор от GitHub
 tags: GitHub, Atom, frontend
 permalink: atom-new-texteditor-from-github
 ---
