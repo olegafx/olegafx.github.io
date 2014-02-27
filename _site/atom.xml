@@ -7,6 +7,52 @@
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>Atom — новый текстовый редактор от GitHub!</title>
+			<description>&lt;p&gt;GitHub разрабатывает свой текстовый редактор с блэкджеком и октокотиками.
+Об этом я узнал вчера &lt;a href=&quot;https://twitter.com/HNTweets/status/438538941801574400&quot;&gt;из Твиттера&lt;/a&gt;.
+Сегодня же появилось больше подробностей, о чем я сейчас и расскажу.&lt;/p&gt;
+
+&lt;p&gt;Текстовый редактор называется Atom. Почему?
+Если зайти в список &lt;a href=&quot;https://github.com/atom&quot;&gt;репозиториев&lt;/a&gt; проекта, то можно увидеть около 70 разных модулей редактора.
+То есть он состоит как будто из маленьких атомов.&lt;/p&gt;
+
+&lt;p&gt;Редактор вдохновлен идеями и интерфейсом &lt;a href=&quot;http://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt;, &lt;a href=&quot;http://macromates.com/&quot;&gt;TextMate&lt;/a&gt;, что можно легко заметить на скриншотах.
+Различные темы, Command palette из Sublime, подсветка синтаксиса и многое другое.&lt;/p&gt;
+
+&lt;p&gt;Например, вот различные темы — светлая и тёмная:
+&lt;img src=&quot;http://habrastorage.org/getpro/habr/post_images/743/8a6/03a/7438a603a05df6df2a9c7abca8b791fb.png&quot; alt=&quot;светлая тема&quot; /&gt;
+&lt;img src=&quot;http://habrastorage.org/getpro/habr/post_images/0d3/7f0/4ff/0d37f04ffba41133a20ddf21815f670d.png&quot; alt=&quot;тёмная тема&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Или редактирование Markdown:
+&lt;img src=&quot;http://habrastorage.org/getpro/habr/post_images/508/617/222/508617222e09647e8a0ddf60fa62b2ca.png&quot; alt=&quot;редактирование Markdown&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Еще некотрые особенности Atom:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Просмотрщик файловой системы&lt;/li&gt;
+&lt;li&gt;Удобное открытие файлов&lt;/li&gt;
+&lt;li&gt;Быстрые поиск и замена по проекту&lt;/li&gt;
+&lt;li&gt;Сворачивание кода&lt;/li&gt;
+&lt;li&gt;Поддержка сниппетов&lt;/li&gt;
+&lt;li&gt;Настраиваемый интерфейс&lt;/li&gt;
+&lt;li&gt;Импорт тем из TextMate&lt;/li&gt;
+&lt;li&gt;Интеграция с &lt;a href=&quot;http://nodejs.org/&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Поддержка &lt;a href=&quot;http://emmet.io/&quot;&gt;Emmet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Atom пока находится в стадии открытого тестирования, на которое можно записаться на официальном &lt;a href=&quot;http://atom.io/&quot;&gt;сайте&lt;/a&gt;.
+Прочитать &lt;a href=&quot;http://blog.atom.io/2014/02/26/introducing-atom.html&quot;&gt;пост&lt;/a&gt; про запуск проекта можно в блоге проекта.
+И еще можно посмотреть вчерашнюю &lt;a href=&quot;https://news.ycombinator.com/item?id=7302941&quot;&gt;дискуссию&lt;/a&gt; на тему.&lt;/p&gt;
+
+&lt;p&gt;Будем ждать новых подробностей. А я пока поеду в отпуск, ура! &lt;img class=&quot;emoji&quot; title=&quot;wink&quot; alt=&quot;wink&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/wink.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
+</description>
+			<pubDate>Thu, 27 Feb 2014 00:00:00 +0400</pubDate>
+			<link>http://olegafx.ru/atom-new-texteditor-from-github</link>
+			<guid isPermaLink="true">http://olegafx.ru/atom-new-texteditor-from-github</guid>
+		</item>
+		
+		<item>
 			<title>CloudUp — сервис мгновенного обмена данными (+ бонус внутри)</title>
 			<description>&lt;p&gt;Есть огромное количество сервисов, позволяющих делать скриншоты и сразу же загружать их в облако. Скриншот можно посмотреть, зайдя по ссылке. То есть не надо ничего сохранять к себе на компьютер, мучаться с пересылкой по Skype или чему-то еще. Сделали скриншот, отправили ссылку. Люди сами посмотрят его в удобное для них время.&lt;/p&gt;
 
