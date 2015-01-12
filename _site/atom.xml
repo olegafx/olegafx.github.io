@@ -7,28 +7,6 @@
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Code snippet Seti UI</title>
-			<description>&lt;div&gt;
-  &lt;pre data-line=&#39;1-11&#39;&gt;&lt;code class=&#39;language-javascript&#39;&gt;exports.dbTest = function (req, res) {
-    var limit = req.query.limit || 5;
-
-    db.serialize(function () {
-        db.get(&amp;#39;SELECT `id`, `name` FROM `added` LIMIT &amp;#39; + limit, processSongs);
-    });
-
-    function processSongs (err, song) {
-        res.json(song);
-    }
-};&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-</description>
-			<pubDate>Mon, 12 Jan 2015 00:00:00 +0300</pubDate>
-			<link>http://olegafx.ru/code-snippet-seti</link>
-			<guid isPermaLink="true">http://olegafx.ru/code-snippet-seti</guid>
-		</item>
-		
-		<item>
 			<title>30 Seconds to Mars</title>
 			<description>&lt;p&gt;Попасть на концерт 30 Seconds to Mars я мечтал очень давно.
 Это случилось, концерт был шикарный.&lt;/p&gt;
