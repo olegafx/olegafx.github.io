@@ -47,6 +47,7 @@ GEM
     html-pipeline (1.9.0)
       activesupport (>= 2)
       nokogiri (~> 1.4)
+    httpclient (2.6.0.1)
     i18n (0.7.0)
     jekyll (2.4.0)
       classifier-reborn (~> 2.0)
@@ -102,13 +103,20 @@ GEM
     pygments.rb (0.6.0)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
+    rake (10.4.2)
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
     rdiscount (2.1.7)
     redcarpet (3.1.2)
+    reduce (0.3.0)
+      smusher
     safe_yaml (1.0.4)
     sass (3.4.9)
+    smusher (0.4.9)
+      httpclient (>= 2.2)
+      json
+      rake
     terminal-table (1.4.5)
     thread_safe (0.3.4)
     timers (4.0.1)
@@ -124,3 +132,4 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  reduce
