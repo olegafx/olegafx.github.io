@@ -3,8 +3,9 @@ description: "Личный блог о разработке, крутых шту
 
 url: "http://olegafx.ru"
 
+excerpt_separator: ""
 markdown: rdiscount
 permalink: :year/:month/:title.html
-pygments: true
+highlighter: pygments
 
-exclude: [node_modules, Rakefile, sass, bower.json, gulpfile.js, README.md]
+exclude: [node_modules, Gemfile, Rakefile, sass, bower.json, gulpfile.js, README.md]

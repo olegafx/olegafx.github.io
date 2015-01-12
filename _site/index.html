@@ -8,6 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="/css/main.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/css/prism.css"/>
 	<link rel="alternate" type="application/rss+xml" title="Олег Кислицын" href="http://olegafx.ru/atom.xml">
 </head>
 
@@ -27,40 +28,22 @@
 	<section id="single-wrap">
 	<article class="single-content">
 		
-			<h1 class="page-title">30 Seconds to Mars</h1>
+			<h1 class="page-title">Code snippet Seti UI</h1>
 		
 
-		<p>Попасть на концерт 30 Seconds to Mars я мечтал очень давно.
-Это случилось, концерт был шикарный.</p>
+		<div>
+  <pre data-line='1-11'><code class='language-javascript'>exports.dbTest = function (req, res) {
+    var limit = req.query.limit || 5;
 
-<p>Видео с концерта.</p>
+    db.serialize(function () {
+        db.get(&#39;SELECT `id`, `name` FROM `added` LIMIT &#39; + limit, processSongs);
+    });
 
-<div class='embed-container'><iframe src="//www.youtube.com/embed/cPQTyt8qhlA" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/XMb4NCSWBu4" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/1illlhIqXEA" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/YmHlFxgQ9GE" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/usDAZDlO4YY" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/IEZBOQ3um3U" frameborder="0" allowfullscreen></iframe></div>
+    function processSongs (err, song) {
+        res.json(song);
+    }
+};</code></pre>
+</div>
 
 
 
@@ -89,6 +72,10 @@
   <ul class="posts">
     
       <li>
+      	<a href="/30-seconds-to-mars"><div class="p-wrap"><span class="date">16 марта 2014</span> <p>30 Seconds to Mars</p></div></a>
+	  </li>
+    
+      <li>
       	<a href="/within-temptation"><div class="p-wrap"><span class="date">1 марта 2014</span> <p>Within Temptation</p></div></a>
 	  </li>
     
@@ -104,10 +91,6 @@
       	<a href="/чистый-код"><div class="p-wrap"><span class="date">18 февр. 2014</span> <p>Чистый код</p></div></a>
 	  </li>
     
-      <li>
-      	<a href="/это-случилось"><div class="p-wrap"><span class="date">12 февр. 2014</span> <p>Это случилось!</p></div></a>
-	  </li>
-    
   </ul>
 </div>
 
@@ -119,6 +102,8 @@
 	<a href="http://twitter.com/olegafx" class="icon"><span class="icon-twitter"></span></a>
 	<a href="http://instagram.com/olegafx" class="icon"><span class="icon-instagram"></span></a>
 </footer>
+
+<script src="/js/prism.js"></script>
 
 <script>
 	(function (i, s, o, g, r, a, m) {
@@ -135,7 +120,6 @@
 
 	ga('create', 'UA-47981121-1', 'olegafx.ru');
 	ga('send', 'pageview');
-
 </script>
 </body>
 </html>

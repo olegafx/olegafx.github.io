@@ -23,50 +23,30 @@
 <main>
 
  
-    <a rel="prev" href="/within-temptation" id="prev">&larr;</a>
+    <a rel="prev" href="/30-seconds-to-mars" id="prev">&larr;</a>
 
- 
-    <a rel="next" href="/code-snippet-seti" id="next">&rarr;</a>
 
 
 <section id="single-wrap">
 	<article class="single-content">
 		<div class="feat">
-			<time class="page-date" datetime="2014-03-16T00:00:00+04:00">16 марта 2014</time>
+			<time class="page-date" datetime="2015-01-12T00:00:00+03:00">12 января 2015</time>
 		</div>
-		<h1 class="page-title">30 Seconds to Mars</h1>
+		<h1 class="page-title">Code snippet Seti UI</h1>
 
-		<p>Попасть на концерт 30 Seconds to Mars я мечтал очень давно.
-Это случилось, концерт был шикарный.</p>
+		<div>
+  <pre data-line='1-11'><code class='language-javascript'>exports.dbTest = function (req, res) {
+    var limit = req.query.limit || 5;
 
-<p>Видео с концерта.</p>
+    db.serialize(function () {
+        db.get(&#39;SELECT `id`, `name` FROM `added` LIMIT &#39; + limit, processSongs);
+    });
 
-<div class='embed-container'><iframe src="//www.youtube.com/embed/cPQTyt8qhlA" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/XMb4NCSWBu4" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/1illlhIqXEA" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/YmHlFxgQ9GE" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/usDAZDlO4YY" frameborder="0" allowfullscreen></iframe></div>
-
-
-
-
-<div class='embed-container'><iframe src="//www.youtube.com/embed/IEZBOQ3um3U" frameborder="0" allowfullscreen></iframe></div>
+    function processSongs (err, song) {
+        res.json(song);
+    }
+};</code></pre>
+</div>
 
 
 
