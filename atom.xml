@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Олег Кислицын</title>
-		<description>Личный блог о разработке, крутых штуках и интересных наблюдениях.</description>
+		<title>Oleg Kislitsyn: fullstack JS-developer</title>
+		<description>Personal blog about developing, cool stuff and awesome things.</description>
 		<link>http://olegafx.ru</link>
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
