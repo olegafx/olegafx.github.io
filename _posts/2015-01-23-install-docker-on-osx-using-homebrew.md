@@ -1,5 +1,9 @@
-Install Docker on OSX using Homebrew
-====================================
+---
+layout: post
+title: Install Docker on OSX using Homebrew
+tags: osx, docker, homebrew
+permalink: install-docker-on-osx-using-homebrew
+---
 
 Guide to install Docker quick and painless way.
 
