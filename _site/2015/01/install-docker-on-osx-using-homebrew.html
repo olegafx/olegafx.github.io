@@ -1,0 +1,46 @@
+<h1>Install Docker on OSX using Homebrew</h1>
+
+<h2>Install Homebrew</h2>
+
+<pre><code class="bash">ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+</code></pre>
+
+<h2>Install Virtualbox</h2>
+
+<pre><code class="bash">brew update
+brew tap phinze/homebrew-cask
+brew install brew-cask
+brew cask install virtualbox
+</code></pre>
+
+<h2>Install boot2docker</h2>
+
+<pre><code class="bash">brew install boot2docker
+</code></pre>
+
+<p>If you want to load boo2docker automatically:</p>
+
+<pre><code class="bash">ln -sfv /usr/local/opt/boot2docker/*.plist ~/Library/LaunchAgents
+launchctl load -w ~/Library/LaunchAgents/homebrew.mxcl.boot2docker.plist
+</code></pre>
+
+<p>Tell boot2docker to download iso file, create ssh key and start:</p>
+
+<pre><code>boot2docker init
+boot2docker up
+</code></pre>
+
+<p>You will see a message. Something like:</p>
+
+<pre><code class="bash">To connect the Docker client to the Docker daemon, please set:
+    export DOCKER_HOST=tcp://192.168.59.103:2376
+    export DOCKER_CERT_PATH=/Users/[username]/.boot2docker/certs/boot2docker-vm
+    export DOCKER_TLS_VERIFY=1
+</code></pre>
+
+<p>Make that 3 exports and you’re good to go!</p>
+
+<pre><code class="bash">docker run hello-world
+</code></pre>
+
+<p>That’s all. Have a nice day of <a href="https://docs.docker.com/userguide/">learning Docker</a> <img class="emoji" title="smile" alt="smile" src="https://github.global.ssl.fastly.net/images/icons/emoji/smile.png" height="20" width="20" align="absmiddle"></p>
