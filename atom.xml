@@ -10,48 +10,64 @@
 			<title>Install Docker On Osx Using Homebrew</title>
 			<description>&lt;h1&gt;Install Docker on OSX using Homebrew&lt;/h1&gt;
 
+&lt;p&gt;Guide to install Docker quick and painless way.&lt;/p&gt;
+
 &lt;h2&gt;Install Homebrew&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;ruby -e &quot;$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)&quot;
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;ruby -e &amp;quot;$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;h2&gt;Install Virtualbox&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;brew update
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;brew update
 brew tap phinze/homebrew-cask
 brew install brew-cask
-brew cask install virtualbox
-&lt;/code&gt;&lt;/pre&gt;
+brew cask install virtualbox&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;h2&gt;Install boot2docker&lt;/h2&gt;
 
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;brew install boot2docker
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;brew install boot2docker&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;If you want to load boo2docker automatically:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;ln -sfv /usr/local/opt/boot2docker/*.plist ~/Library/LaunchAgents
-launchctl load -w ~/Library/LaunchAgents/homebrew.mxcl.boot2docker.plist
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;ln -sfv /usr/local/opt/boot2docker/*.plist ~/Library/LaunchAgents
+launchctl load -w ~/Library/LaunchAgents/homebrew.mxcl.boot2docker.plist&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Tell boot2docker to download iso file, create ssh key and start:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;boot2docker init
-boot2docker up
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;boot2docker init
+boot2docker up&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;You will see a message. Something like:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;To connect the Docker client to the Docker daemon, please set:
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;To connect the Docker client to the Docker daemon, please set:
     export DOCKER_HOST=tcp://192.168.59.103:2376
     export DOCKER_CERT_PATH=/Users/[username]/.boot2docker/certs/boot2docker-vm
-    export DOCKER_TLS_VERIFY=1
-&lt;/code&gt;&lt;/pre&gt;
+    export DOCKER_TLS_VERIFY=1&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;Make that 3 exports and you’re good to go!&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;docker run hello-world
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div&gt;
+  &lt;pre data-line=&#39;&#39;&gt;&lt;code class=&#39;language-bash&#39;&gt;docker run hello-world&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
 
 &lt;p&gt;That’s all. Have a nice day of &lt;a href=&quot;https://docs.docker.com/userguide/&quot;&gt;learning Docker&lt;/a&gt; &lt;img class=&quot;emoji&quot; title=&quot;smile&quot; alt=&quot;smile&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/smile.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
 </description>
