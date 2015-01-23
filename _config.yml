@@ -1,11 +1,11 @@
-name: "Олег Кислицын"
+name: "Oleg Kislitsyn: fullstack JS-developer"
 description: "Личный блог о разработке, крутых штуках и интересных наблюдениях."
+description: "Personal blog about developing, cool stuff and awesome things."
 
 url: "http://olegafx.ru"
 
 excerpt_separator: ""
 markdown: rdiscount
 permalink: :year/:month/:title.html
-highlighter: pygments
 
 exclude: [node_modules, Gemfile, Rakefile, sass, bower.json, gulpfile.js, README.md]

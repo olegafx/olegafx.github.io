@@ -1,6 +1,6 @@
 require 'i18n'
 
-LOCALE = :ru # set your locale
+LOCALE = :en # set your locale
 
 # Create folder "_locales" and put some locale file from https://github.com/svenfuchs/rails-i18n/tree/master/rails/locale
 module Jekyll
