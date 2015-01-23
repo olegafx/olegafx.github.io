@@ -7,10 +7,8 @@
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Install Docker On Osx Using Homebrew</title>
-			<description>&lt;h1&gt;Install Docker on OSX using Homebrew&lt;/h1&gt;
-
-&lt;p&gt;Guide to install Docker quick and painless way.&lt;/p&gt;
+			<title>Install Docker on OSX using Homebrew</title>
+			<description>&lt;p&gt;Guide to install Docker quick and painless way.&lt;/p&gt;
 
 &lt;h2&gt;Install Homebrew&lt;/h2&gt;
 
@@ -72,8 +70,8 @@ boot2docker up&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;That’s all. Have a nice day of &lt;a href=&quot;https://docs.docker.com/userguide/&quot;&gt;learning Docker&lt;/a&gt; &lt;img class=&quot;emoji&quot; title=&quot;smile&quot; alt=&quot;smile&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/smile.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
 </description>
 			<pubDate>Fri, 23 Jan 2015 00:00:00 +0300</pubDate>
-			<link>http://olegafx.ru/2015/01/install-docker-on-osx-using-homebrew.html</link>
-			<guid isPermaLink="true">http://olegafx.ru/2015/01/install-docker-on-osx-using-homebrew.html</guid>
+			<link>http://olegafx.ru/install-docker-on-osx-using-homebrew</link>
+			<guid isPermaLink="true">http://olegafx.ru/install-docker-on-osx-using-homebrew</guid>
 		</item>
 		
 		<item>
