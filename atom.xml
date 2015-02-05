@@ -7,6 +7,71 @@
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>SummaryJS, issue 1</title>
+			<description>&lt;h2&gt;React Conf&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr&quot;&gt;Conf videos&lt;/a&gt; on Facebook Developer Channel&lt;br/&gt;
+&lt;a href=&quot;https://gist.github.com/prestonparris/ec7597efd4d4977b54af&quot;&gt;Conf notes&lt;/a&gt; by Preston Parris&lt;br/&gt;
+&lt;a href=&quot;http://kevinold.com/2015/01/31/takeaways-from-reactjs-conf-2015.html&quot;&gt;Conf takeaways&lt;/a&gt; by Kevin Old&lt;br/&gt;
+&lt;a href=&quot;https://gist.github.com/wincent/598fa75e22bdfa44cf47&quot;&gt;Unofficial Relay FAQ&lt;/a&gt; by Greg Hurrell&lt;/p&gt;
+
+&lt;h2&gt;React&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/gaearon/react-hot-loader&quot;&gt;React Hot Loader&lt;/a&gt; by Dan Abramov&lt;br/&gt;
+&lt;a href=&quot;https://github.com/rackt/react-router&quot;&gt;React Router&lt;/a&gt; by rackt&lt;br/&gt;
+&lt;a href=&quot;https://github.com/voronianski/flux-comparison&quot;&gt;flux-comparison&lt;/a&gt; by Dmitri Voronianski&lt;/p&gt;
+
+&lt;h2&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=8adsZeMQjGQ&quot;&gt;10 Principles for effective Front-end Development&lt;/a&gt; by Harry Roberts&lt;/p&gt;
+
+&lt;h2&gt;Articles&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20%26%20beyond/ch1.md#versioning&quot;&gt;You Don&#39;t Know JS: ES6 &amp;amp; Beyond, Versioning&lt;/a&gt; by Kyle Simpson&lt;br/&gt;
+&lt;a href=&quot;http://www.2ality.com/2014/12/one-javascript.html&quot;&gt;One JavaScript: avoiding versioning in ECMAScript 6&lt;/a&gt; by Dr. Axel Rauschmayer&lt;br/&gt;
+&lt;a href=&quot;http://www.devbattles.com/en/sand/post-707-Debugging+Asynchronous+JavaScript+with+Chrome+DevTools&quot;&gt;Debugging Asynchronous JavaScript with Chrome DevTools&lt;/a&gt; by Maxim Dzhuliy&lt;br/&gt;
+&lt;a href=&quot;https://hacks.mozilla.org/2015/01/from-mapreduce-to-javascript-functional-programming/&quot;&gt;From Map/Reduce to JavaScript Functional Programming&lt;/a&gt; by Greg Weng&lt;br/&gt;
+&lt;a href=&quot;http://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/&quot;&gt;BroadcastChannel API in Firefox 38&lt;/a&gt; by Jason Weathersby&lt;br/&gt;
+&lt;a href=&quot;https://boagworld.com/working-in-web/work-smarter/&quot;&gt;Work Smarter: How to reduce your hours and yet get more done&lt;/a&gt; by Paul Boag&lt;br/&gt;
+&lt;a href=&quot;https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html&quot;&gt;Understanding React and reimplementing it from scratch Part 1: Views&lt;/a&gt; by Giulio Canti&lt;br/&gt;
+&lt;a href=&quot;http://www.2ality.com/2015/02/soundscript.html&quot;&gt;Google SoundScript: faster OOP for JavaScript&lt;/a&gt; by Dr. Axel Rauschmayer&lt;/p&gt;
+
+&lt;h2&gt;Tools, libs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://formatjs.io/&quot;&gt;FormatJS&lt;/a&gt; by Yahoo&lt;br/&gt;
+&lt;a href=&quot;https://github.com/agershun/alasql&quot;&gt;alasql&lt;/a&gt; by Andrey Gershun&lt;br/&gt;
+&lt;a href=&quot;https://github.com/google/lovefield&quot;&gt;Lovefield&lt;/a&gt; by Google&lt;br/&gt;
+&lt;a href=&quot;http://www.minoblog.io/fieldval/&quot;&gt;FieldVal&lt;/a&gt; by Marcus Longmuir&lt;br/&gt;
+&lt;a href=&quot;https://github.com/js-data/js-data&quot;&gt;js-data&lt;/a&gt; by Jason Dobry&lt;br/&gt;
+&lt;a href=&quot;https://tryflow.org/&quot;&gt;Flow online&lt;/a&gt; by Dmitriy Loktev&lt;br/&gt;
+&lt;a href=&quot;https://github.com/paulirish/git-open&quot;&gt;git open&lt;/a&gt; by Jason McCreary &amp;amp; Paul Irish &lt;br/&gt;
+&lt;a href=&quot;https://github.com/arasatasaygin/is.js&quot;&gt;is.js&lt;/a&gt; by Aras Atasaygin&lt;/p&gt;
+
+&lt;h2&gt;Games&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://play.elevatorsaga.com/&quot;&gt;Elevator Saga&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/h5bp/html5-boilerplate/blob/v5.0.0/CHANGELOG.md&quot;&gt;Html5 Boilerplate 5.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jasmine/jasmine/blob/master/release_notes/2.2.0.md&quot;&gt;Jasmine 2.2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/lodash/lodash/wiki/Changelog#v310&quot;&gt;lodash 3.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/janpaepke/ScrollMagic/blob/development/CHANGELOG.md&quot;&gt;ScrollMagic 2.0.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/atom/atom/releases/tag/v0.177.0&quot;&gt;Atom 0.177.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://plus.google.com/+PeteBaconDarwin/posts/H6yJGJpAGrj&quot;&gt;AngularJS 1.4.0, beta 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;WallabyJS by Artem Govorov&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wallabyjs.com/&quot;&gt;Site&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://twitter.com/wallabyjs&quot;&gt;Twitter&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=uUmF16R9JNs&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+</description>
+			<pubDate>Thu, 05 Feb 2015 00:00:00 +0300</pubDate>
+			<link>http://olegafx.ru/summaryjs-issue-1</link>
+			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-1</guid>
+		</item>
+		
+		<item>
 			<title>Install Docker on OSX using Homebrew</title>
 			<description>&lt;p&gt;Guide to install Docker quick and painless way.&lt;/p&gt;
 
