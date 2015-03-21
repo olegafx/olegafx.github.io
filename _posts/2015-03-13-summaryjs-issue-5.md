@@ -92,3 +92,5 @@ Updates
 [react 0.13](http://facebook.github.io/react/blog/2015/03/10/react-v0.13.html)  
 [react-hot-loader 1.2.3](https://github.com/gaearon/react-hot-loader/blob/master/CHANGELOG.md#123)  
 [react-to-html-webpack 2.1.0](https://github.com/markdalgleish/react-to-html-webpack-plugin/blob/master/CHANGELOG.md#210---2015-03-12)  
+
+[:octocat:](https://github.com/olegafx/summaryjs/blob/master/5.md)

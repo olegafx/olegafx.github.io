@@ -79,3 +79,5 @@ Updates
 [react-plain-editable 2.0.0](https://github.com/insin/react-plain-editable/releases/tag/v2.0.0)  
 [io.js 1.4.2](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-02-28-version-142-rvagg)  
 [react-dnd 0.9.0](https://github.com/gaearon/react-dnd/blob/master/docs/UPGRADE_GUIDE.md#08x---09x)
+
+[:octocat:](https://github.com/olegafx/summaryjs/blob/master/3.md)

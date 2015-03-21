@@ -146,3 +146,5 @@ Updates
 [react v0.13.1](http://facebook.github.io/react/blog/2015/03/16/react-v0.13.1.html)  
 [react-intl 1.2.0](https://github.com/yahoo/react-intl/)  
 [react-router 0.13.1](https://github.com/rackt/react-router/blob/master/CHANGELOG.md#v0131---fri-20-mar-2015-222157-gmt)
+
+[:octocat:](https://github.com/olegafx/summaryjs/blob/master/6.md)

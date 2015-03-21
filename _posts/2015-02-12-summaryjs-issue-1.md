@@ -70,3 +70,5 @@ WallabyJS by Artem Govorov
 [Site](http://wallabyjs.com/)  
 [Twitter](https://twitter.com/wallabyjs)  
 [Video](http://www.youtube.com/watch?v=uUmF16R9JNs)
+
+[:octocat:](https://github.com/olegafx/summaryjs/blob/master/1.md)
