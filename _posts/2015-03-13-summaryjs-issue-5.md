@@ -1,0 +1,94 @@
+---
+layout: post
+title: SummaryJS, issue 5
+tags: summaryjs, javascript, es2015, react, angular
+permalink: summaryjs-issue-5
+---
+
+Video
+-----
+
+[EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU#emberconf)  
+[ng-conf 2015](https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7)  
+[ng-wat](http://www.youtube.com/watch?v=M_Wp-2XA9ZU)  
+[3 Reasons to Love React](http://www.youtube.com/watch?v=IkQ5r6kNiN8)    
+[Advancing JavaScript without breaking the web](https://www.youtube.com/watch?v=RVEntHvof2w)  
+[Flux Tutorial - Writing a Simple App in Flux and React](http://www.youtube.com/watch?v=o5E894TmHJg)
+
+Articles, slides
+----------------
+
+[Adding Audio to Web Apps](http://developer.telerik.com/featured/adding-audio-to-web-apps/)  
+[Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)  
+[Babel: Beyond the Basics](https://speakerdeck.com/sebmck/babel-beyond-the-basics)  
+[Boiling React Down to a Few Lines of jQuery](http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/)  
+[Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)  
+[Developing a web-security mindset](https://frederic-hemberger.de/talks/concat-websecurity/#/cover)  
+[es7-features](https://github.com/hemanth/es7-features)  
+[Getting Started with TypeScript – Classes, Types and Interfaces](http://weblogs.asp.net/dwahlin/getting-started-with-typescript-classes-static-types-and-interfaces)  
+[How to Embrace Angular 2.0 Today with a Future-Friendly Angular 1.3 Application](http://rangle.io/bloghow-to-embrace-angular-2-today-with-future-friendly-angular-1-3/)  
+[javascript-decorators](https://github.com/wycats/javascript-decorators)  
+[Lazy live data with React](https://medium.com/@jbscript/lazy-live-data-with-react-79ed1cb1f4d6)  
+[React Is A Terrible Idea](https://www.pandastrike.com/posts/20150311-react-bad-idea)  
+[React on the Server](http://kevnz.github.io/serversidereact/)  
+[Smarter CSS builds with Webpack](http://bensmithett.com/smarter-css-builds-with-webpack/)  
+[Tabbed Navigation with React](http://codepen.io/trey/blog/tabbed-navigation-react)  
+[Thoughts on Angular 2 after ng-conf 2015 (and some whisky)](https://medium.com/@aripalo/thoughts-on-angular-2-after-ng-conf-2015-and-some-whisky-8392c260095c)  
+[Why We Are Converting to React](http://www.crashlytics.com/blog/building-user-interfaces-with-react/)
+
+Tools, libs
+-----------
+
+[100-ways-to-die](https://github.com/lapwinglabs/100-ways-to-die) – an exploration into zero-downtime node servers  
+[ai2html](https://github.com/newsdev/ai2html/) – a script for Adobe Illustrator that converts your Illustrator artwork into an html page  
+[all-the-steets](https://github.com/vicapow/all-the-steets) – generate a map of all the streets in America  
+[alpha-shape](https://github.com/mikolalysenko/alpha-shape) – any dimensional alpha shapes  
+[backbone-nprogress](https://github.com/shuvalov-anton/backbone-nprogress) – show slim progress bars when your backbone collections and models are fetching  
+[baobab](https://github.com/Yomguithereal/baobab) – javascript data tree with cursors  
+[before-after.js](https://github.com/jotform/before-after.js) – an image comparision slider  
+[biofabric](https://github.com/maxogden/biofabric) – a client side module for generating biofabric graphs in svg using d3  
+[catalyst](https://github.com/njsuperfreak/catalyst) – a minimal ReactJS workflow enabling live-editing of React and Sass components without loosing state  
+[codepen-react](https://github.com/bradleyboy/codepen-react) – shim for using react at codepen  
+[comws](https://github.com/shes/comws) – koa-like generator middlewares for any apps  
+[domador](https://github.com/bevacqua/domador) – dependency-free and lean dom parser that outputs markdown  
+[doppler](https://github.com/DanielRapp/doppler) – motion detection using the doppler effect  
+[EmptyBox](https://github.com/christianalfoni/EmptyBox) – a complete isomorphic hackable blog service based on react  
+[eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) – eslint plugin for angular applications  
+[essential-gulp-plugins](https://github.com/Pestov/essential-gulp-plugins) – living list of most useful plugins for gulp  
+[essential-react](https://github.com/pheuter/essential-react) – a minimal skeleton for building testable react apps using es6  
+[generator-firefox-extension](https://github.com/dgil/generator-firefox-extension) – yeoman generator for firefox extensions  
+[github-with-auth](https://github.com/freeall/github-with-auth) – get started using the github in no time  
+[hublin](https://github.com/linagora/hublin) – an easy and free video conference service  
+[Inject.js](https://github.com/Matthew-Dove/Inject) – inject html into your website from external sources  
+[json-native](https://github.com/dustinhayes/json-native) – parse and stringify native javascript types  
+[kanye](https://github.com/bevacqua/kanye) – smash your keyboards with ease  
+[minimal-flux](https://github.com/malte-wessel/minimal-flux) – a lightweight implementation of Flux  
+[NativeScript](https://github.com/NativeScript/NativeScript) – open source framework for building cross-platform truly native iOS, Android and Windows mobile apps using javascript  
+[notification-fallback.js](https://github.com/drKraken/notification-fallback.js) – simple fallback for window.Notification  
+[OSMBuildings](https://github.com/OSMBuildings/OSMBuildings) – OpenStreetMap building geoemetry on 2D and 3D maps  
+[outpipe](https://github.com/substack/outpipe) – write output to a file through shell commands  
+[pretty-format](https://github.com/thejameskyle/pretty-format) – stringify any javascript value  
+[radium](https://github.com/FormidableLabs/radium) – a toolchain for react component styling  
+[react-blur](https://github.com/javierbyte/react-blur) – react component for blurred backgrounds  
+[react-iscroll](https://github.com/schovi/react-iscroll) – react component for wrapping iScroll  
+[react-pivot](https://github.com/davidguttman/react-pivot) – a data-grid component with pivot-table-like functionality for data display, filtering, and exploration  
+[react-style](https://github.com/js-next/react-style) – maintainable styling for react components  
+[slideout](https://github.com/Mango/slideout) – a touch slideout navigation menu for your mobile web apps  
+[threx](https://github.com/trevnorris/threx) – spawn threads in javascript  
+[thundercats](https://github.com/r3dm/thundercats) – a flux architecture implementation based on rxjs  
+[typography.js](https://github.com/KyleAMathews/typography.js) – an opinionated toolkit for building websites with beautiful typography  
+[unindexed](https://github.com/mroth/unindexed) – website that irrevocably deletes itself once indexed  
+[visualizing-projections](https://github.com/shaunlebron/visualizing-projections) – interactive visualization of projections
+
+Updates
+-------
+
+[ESLint 0.16.2](http://eslint.org/blog/2015/03/eslint-0.16.2-released/)  
+[espree 1.11.0](https://github.com/eslint/espree/releases/tag/v1.11.0)  
+[esprima 2.1](http://blog.jquery.com/2015/03/10/esprima-2-1-released/)  
+[flummox 3.0.1](https://github.com/acdlite/flummox/blob/master/CHANGELOG.md#301)  
+[grunt-react 0.12.0](https://github.com/ericclemmons/grunt-react)  
+[io.js 1.5.1](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-03-09-version-151-rvagg)  
+[react 0.13](http://facebook.github.io/react/blog/2015/03/10/react-v0.13.html)  
+[react-hot-loader 1.2.3](https://github.com/gaearon/react-hot-loader/blob/master/CHANGELOG.md#123)  
+[react-to-html-webpack 2.1.0](https://github.com/markdalgleish/react-to-html-webpack-plugin/blob/master/CHANGELOG.md#210---2015-03-12)  

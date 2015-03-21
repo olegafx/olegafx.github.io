@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SummaryJS, issue 1
-tags: osx, docker, homebrew
+tags: summaryjs, osx, docker, homebrew
 permalink: summaryjs-issue-1
 ---
 

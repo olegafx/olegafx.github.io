@@ -7,6 +7,498 @@
 		<atom:link href="http://olegafx.ru/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>SummaryJS, issue 6</title>
+			<description>&lt;h2&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=cYrTLZ4kcsU&quot;&gt;Cincinnati Meteor Meetup - March Edition&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=WUd84Qw1VjY&quot;&gt;Update ReactNative Video game music player upate&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=Cs3Fdup7aUo&quot;&gt;Ember CLI + Firebase in 9 Minutes&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://egghead.io/lessons/node-js-using-pm2-to-keep-your-node-apps-alive&quot;&gt;Using PM2 To Keep Your Node Apps Alive&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=bx1bVJZueFw&quot;&gt;“Lightning Talks” | .concat() 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Articles&lt;/h2&gt;
+
+&lt;h3&gt;March 10&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/cool-code-pal/a-call-for-web-developers-to-deprecate-their-css-1f6430781393&quot;&gt;A Call For Web Developers To Deprecate Their CSS&lt;/a&gt; by Jenn Schiffer&lt;br/&gt;
+&lt;a href=&quot;https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/&quot;&gt;This API is so Fetching!&lt;/a&gt; by Nikhil Marathe&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375&quot;&gt;Two React Tips&lt;/a&gt; by Dan Abramov&lt;/p&gt;
+
+&lt;h3&gt;March 11&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/improve-workflow-browsersync-2-0/&quot;&gt;How to Improve Your Workflow With BrowserSync 2.0&lt;/a&gt; by Craig Buckler&lt;/p&gt;
+
+&lt;h3&gt;March 12&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx&quot;&gt;A Preview of Angular 2 and TypeScript in Visual Studio&lt;/a&gt; by Jordan Matthiesen&lt;br/&gt;
+&lt;a href=&quot;http://flowtype.org/blog/2015/03/12/Bounded-Polymorphism.html&quot;&gt;Flow: Bounded Polymorphism&lt;/a&gt; by Avik Chaudhuri&lt;br/&gt;
+&lt;a href=&quot;http://lihaoyi.github.io/hands-on-scala-js/&quot;&gt;Hands-on Scala.js&lt;/a&gt; by Scala.js team&lt;br/&gt;
+&lt;a href=&quot;http://derickbailey.com/2015/03/12/serially-iterating-an-array-asynchronously/&quot;&gt;Serially Iterating An Array, Asynchronously&lt;/a&gt; by Derick Bailey&lt;br/&gt;
+&lt;a href=&quot;https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack&quot;&gt;Testing ReactJS Components with Karma and Webpack&lt;/a&gt; by Justin Woo&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f&quot;&gt;The Future of Drag and Drop APIs&lt;/a&gt; by Dan Abramov&lt;br/&gt;
+&lt;a href=&quot;http://raganwald.com/2015/03/12/symmetry.html&quot;&gt;The Symmetry of JavaScript Functions (revised)&lt;/a&gt; by Reginald Braithwaite&lt;/p&gt;
+
+&lt;h3&gt;March 13&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jaysoo.ca/2015/03/13/avoiding-composability-issues-with-angular-1-directives/&quot;&gt;Avoiding Composability Issues With Angular 1 Directives&lt;/a&gt; by Jack Hsu&lt;br/&gt;
+&lt;a href=&quot;http://www.creativebloq.com/web-design/react-goes-head-head-emberjs-31514361&quot;&gt;React goes head-to-head with Ember.js&lt;/a&gt; by Alex Matchneer&lt;br/&gt;
+&lt;a href=&quot;http://kriswallsmith.net/post/113538449364/three-reactjs-flux-commandments&quot;&gt;Three ReactJS + Flux commandments&lt;/a&gt; by Kris Wallsmith&lt;/p&gt;
+
+&lt;h3&gt;March 16&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jlongster.com/Backend-Apps-with-Webpack--Part-I&quot;&gt;Backend Apps with Webpack: Part I&lt;/a&gt; by James Long&lt;br/&gt;
+&lt;a href=&quot;http://dialelo.github.io/introduction-to-communicating-sequential-processes-in-javascript.html&quot;&gt;Introduction to Communicating Sequential Processes in JavaScript&lt;/a&gt; by Alejandro Gómez&lt;br/&gt;
+&lt;a href=&quot;http://www.infoq.com/news/2015/03/react-es6-classes&quot;&gt;React Introduces Support for ES6 Classes&lt;/a&gt; by James Chesters&lt;br/&gt;
+&lt;a href=&quot;http://davidwalsh.name/regular-expressions-rest&quot;&gt;Regular Expressions for the Rest of Us&lt;/a&gt; by Landon Schropp&lt;br/&gt;
+&lt;a href=&quot;http://www.bennadel.com/blog/2801-revisiting-routing-nested-views-and-caching-with-ngroute-in-angularjs-1-x.htm&quot;&gt;Revisiting Routing, Nested Views, And Caching With ngRoute In AngularJS 1.x&lt;/a&gt; by Ben Nadel&lt;br/&gt;
+&lt;a href=&quot;https://www.airpair.com/angularjs/tips-n-tricks/speed-up-your-angular-apps-and-rid-sasqwatches&quot;&gt;Speed up your angular app and get rid of sasqwatches&lt;/a&gt; by Scott Moss&lt;/p&gt;
+
+&lt;h3&gt;March 17&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.sitepoint.com/6-nodejs-static-site-generators/&quot;&gt;6 Node.js Static Site Generators&lt;/a&gt; by Ciara Burkett&lt;br/&gt;
+&lt;a href=&quot;http://www.smashingmagazine.com/2015/03/17/different-ways-to-use-svg-sprites-in-animation/&quot;&gt;A Few Different Ways To Use SVG Sprites In Animation&lt;/a&gt; by Sarah Drasner&lt;br/&gt;
+&lt;a href=&quot;http://www.sitepoint.com/understanding-collisions-physics-babylon-js-oimo-js/&quot;&gt;Understanding Collisions and Physics with Babylon.js and Oimo.js&lt;/a&gt; by David Rousset&lt;/p&gt;
+
+&lt;h3&gt;March 18&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html&quot;&gt;New JavaScript techniques for rapid page loads&lt;/a&gt; by Marja Hölttä and Daniel Vogelheim  &lt;br/&gt;
+&lt;a href=&quot;https://strongloop.com/strongblog/javascript-unit-testing-using-dependency-injection/&quot;&gt;Using Dependency Injection in Your JavaScript Unit Tests with Rewire&lt;/a&gt; by Igor Ribeiro Lima&lt;br/&gt;
+&lt;a href=&quot;http://xabikos.com/server%20side%20templating/web%20development/2015/03/18/using-reactjs.net-in-web-forms.html&quot;&gt;Using Reactjs.net in Web Forms&lt;/a&gt; by Charalampos Karypidis&lt;/p&gt;
+
+&lt;h3&gt;March 19&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html&quot;&gt;Building The Facebook News Feed With Relay&lt;/a&gt; by Joseph Savona&lt;br/&gt;
+&lt;a href=&quot;http://modernweb.com/2015/03/19/develop-an-ios-application-with-node-js-and-cordova/&quot;&gt;Develop an iOS Application with Node.js and Cordova&lt;/a&gt; by Krzysztof Trzeciak&lt;br/&gt;
+&lt;a href=&quot;http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/&quot;&gt;Understanding ECMAScript 6: Class and Inheritance&lt;/a&gt; by David Catuhe&lt;br/&gt;
+&lt;a href=&quot;https://andywalpole.me/#!/blog/142677/using-web-workers-angularjs&quot;&gt;Using Web Workers with AngularJS&lt;/a&gt; by Andy Walpole&lt;br/&gt;
+&lt;a href=&quot;http://x-team.com/2015/03/xplorers-journey-react/&quot;&gt;Xplorers: a journey into React&lt;/a&gt; by Josh Johnston&lt;/p&gt;
+
+&lt;h3&gt;March 20&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://es-discourse.com/t/observation-import-is-hoisted/126&quot;&gt;Observation: ’import’ is hoisted&lt;/a&gt; by Axel Rauschmayer&lt;br/&gt;
+&lt;a href=&quot;http://dailyjs.com/2015/03/20/scenevr/&quot;&gt;SceneVR: Node and WebGL 3D Scenes&lt;/a&gt; by Alex Young&lt;/p&gt;
+
+&lt;h3&gt;March 21&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blog.thoughtram.io/angular/2015/03/21/angular-and-i18n-the-new-world.html&quot;&gt;Angular and i18n - The new world&lt;/a&gt; by Pascal Precht&lt;br/&gt;
+&lt;a href=&quot;http://angularjs.blogspot.ru/2015/03/forms-in-angular-2.html&quot;&gt;Forms in Angular 2&lt;/a&gt; by Victor Savkin&lt;br/&gt;
+&lt;a href=&quot;https://auth0.com/docs/client-platforms/react&quot;&gt;Use Auth0 with React&lt;/a&gt; by Auth0 team&lt;/p&gt;
+
+&lt;h2&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1YrQgqOnpIrcUIT9Qa5-C1VBVnvQFTWUwCBD28WE-d7c/edit#gid=0&quot;&gt;ng-conf 2015&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015&quot;&gt;DevTools: State Of The Union 2015&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tools, libs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/hannahhoward/a1atscript&quot;&gt;a1atscript&lt;/a&gt; – the angular 2 polyfill&lt;br/&gt;
+&lt;a href=&quot;https://github.com/dwango-js/advice.js&quot;&gt;advice.js&lt;/a&gt; – simple AOP module&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mgonto/angular-ux&quot;&gt;angular-ux&lt;/a&gt; – a library that helps you create live, navigable prototypes with the help of angular but without having to learn how to code&lt;br/&gt;
+&lt;a href=&quot;https://github.com/tonsky/AnyBar&quot;&gt;AnyBar&lt;/a&gt; – osx menubar status indicator&lt;br/&gt;
+&lt;a href=&quot;https://github.com/genomejs/dna2json&quot;&gt;dna2json&lt;/a&gt; – formats your genome file as json&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jacobthemyth/ember-magic-man&quot;&gt;ember-magic-man&lt;/a&gt; – a lightweight data persistence library for ember&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Gillespie59/eslint-plugin-angular&quot;&gt;eslint-plugin-angular&lt;/a&gt; – eslint plugin for angular applications&lt;br/&gt;
+&lt;a href=&quot;https://github.com/yannickcr/eslint-plugin-react&quot;&gt;eslint-plugin-react&lt;/a&gt; – react specific linting rules for eslint&lt;br/&gt;
+&lt;a href=&quot;https://github.com/chrisdickinson/estoc&quot;&gt;estoc&lt;/a&gt; – a static analyzer for npm packages&lt;br/&gt;
+&lt;a href=&quot;https://github.com/raphdamico/framerKit&quot;&gt;framerKit&lt;/a&gt; – iOS controls recreated in Framer, for your prototyping pleasure&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jkup/functional-javascript&quot;&gt;functional-javascript&lt;/a&gt; – a list of functional javascript resources&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/generator-nm&quot;&gt;generator-nm&lt;/a&gt; – scaffold out a node module&lt;br/&gt;
+&lt;a href=&quot;https://github.com/simplyianm/ghfollowers&quot;&gt;ghfollowers&lt;/a&gt; – a service to get and receive GitHub followers&lt;br/&gt;
+&lt;a href=&quot;https://github.com/kevva/github-add-collab&quot;&gt;github-add-collab&lt;/a&gt; – add collaborators to github repos&lt;br/&gt;
+&lt;a href=&quot;https://github.com/kevva/github-token-user&quot;&gt;github-token-user&lt;/a&gt; – get the github user from a token&lt;br/&gt;
+&lt;a href=&quot;https://github.com/kentcdodds/hson-loader&quot;&gt;hson-loader&lt;/a&gt; – hson-loader for webpack&lt;br/&gt;
+&lt;a href=&quot;https://github.com/PixelsCommander/HTML-GL&quot;&gt;HTML-GL&lt;/a&gt; – get as many fps as you need and amazing effects by rendering html/css in webgl&lt;br/&gt;
+&lt;a href=&quot;https://github.com/inversepath/interlock&quot;&gt;interlock&lt;/a&gt; – a file encryption front-end&lt;br/&gt;
+&lt;a href=&quot;https://github.com/zachsoft/Ionic-Material&quot;&gt;Ionic-Material&lt;/a&gt; – seamless Material Design theme for Ionic&lt;br/&gt;
+&lt;a href=&quot;https://github.com/matsilva/isomorphic-todo&quot;&gt;isomorphic-todo&lt;/a&gt; – proof of concept isomorphic examples&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bvaughn/jasmine-es6-promise-matchers&quot;&gt;jasmine-es6-promise-matchers&lt;/a&gt; – es6 promise compatible jasmine matchers&lt;br/&gt;
+&lt;a href=&quot;https://github.com/vlandham/js_data&quot;&gt;js_data&lt;/a&gt; – data manipulation and processing in javascript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/spmbt/jsConsoleApiReference&quot;&gt;jsConsoleApiReference&lt;/a&gt; – reference of methods for the console object in various browsers and javascript environments&lt;br/&gt;
+&lt;a href=&quot;https://github.com/kitematic/kitematic&quot;&gt;kitematic&lt;/a&gt; – a simple application for managing docker containers on osx&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mafintosh/link-bin&quot;&gt;link-bin&lt;/a&gt; – make bin scripts work local npm dependencies&lt;br/&gt;
+&lt;a href=&quot;https://github.com/caiogondim/logdown&quot;&gt;logdown&lt;/a&gt; – a debug utility for the browser and the server with markdown support&lt;br/&gt;
+&lt;a href=&quot;https://github.com/brijeshb42/medium-style-confirm&quot;&gt;medium-style-confirm&lt;/a&gt; – medium.com style confirm dialog&lt;br/&gt;
+&lt;a href=&quot;https://github.com/gwendall/meteor-template-inspector&quot;&gt;meteor-template-inspector&lt;/a&gt; – inspector for Blaze templates&lt;br/&gt;
+&lt;a href=&quot;https://github.com/rumpl/nanybar&quot;&gt;nanybar&lt;/a&gt; – control AnyBar from your node scripts&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jakke-korpelainen/newtab&quot;&gt;newtab&lt;/a&gt; – custom New Tab page&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/node-module-boilerplate&quot;&gt;node-module-boilerplate&lt;/a&gt; – boilerplate to kickstart creating a node module&lt;br/&gt;
+&lt;a href=&quot;https://github.com/hughsk/npmdl&quot;&gt;npmdl&lt;/a&gt; – conveniently download files from npm packages&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/os-locale&quot;&gt;os-locale&lt;/a&gt; – get the system locale&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ben-eb/postcss-normalize-url&quot;&gt;postcss-normalize-url&lt;/a&gt; – normalize urls with PostCSS&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ben-eb/postcss-zindex&quot;&gt;postcss-zindex&lt;/a&gt; – reduce z-index values with PostCSS&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bloodyowl/react-boilerplate&quot;&gt;react-boilerplate&lt;/a&gt; – boilerplate for a react project&lt;br/&gt;
+&lt;a href=&quot;https://github.com/klaemo/react-es6&quot;&gt;react-es6&lt;/a&gt; – react&#39;s official tutorial with es6 and browserify&lt;br/&gt;
+&lt;a href=&quot;https://github.com/daftdevelopers/react-scaffold&quot;&gt;react-scaffold&lt;/a&gt; – an opinionated setup built on learnings from large applications&lt;br/&gt;
+&lt;a href=&quot;https://github.com/instructure-react/react-toggle&quot;&gt;react-toggle&lt;/a&gt; – an elegant, accessible toggle component for react&lt;br/&gt;
+&lt;a href=&quot;https://github.com/zewish/rmodal.js&quot;&gt;rmodal.js&lt;/a&gt; – a simple modal dialog with no external dependencies&lt;br/&gt;
+&lt;a href=&quot;https://github.com/calipho-sib/sequence-viewer&quot;&gt;sequence-viewer&lt;/a&gt; – a protein sequence viewer with highlight and coverage capabilities written in javascript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/snookca/SnowPen&quot;&gt;SnowPen&lt;/a&gt; – chrome extension to copy inspected element html and css to codepen&lt;br/&gt;
+&lt;a href=&quot;https://github.com/anywhichway/stringformatter&quot;&gt;stringformatter&lt;/a&gt; – an extensible, garbage collecting Javascript string formatter&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mtomcal/super-react&quot;&gt;super-react&lt;/a&gt; – opinionated command line tool for scaffolding out nested react components into files&lt;br/&gt;
+&lt;a href=&quot;https://github.com/KyleAMathews/superagent-bluebird-promise&quot;&gt;superagent-bluebird-promise&lt;/a&gt; – add promise support to superagent using Bluebird&lt;br/&gt;
+&lt;a href=&quot;https://github.com/riccardoscalco/textures&quot;&gt;textures&lt;/a&gt; – a javascript library for creating svg patterns&lt;br/&gt;
+&lt;a href=&quot;https://github.com/lucastan/to.is&quot;&gt;to.is&lt;/a&gt; – data filtering, sanitization and validation library&lt;br/&gt;
+&lt;a href=&quot;https://github.com/teamstrobe/watchlist&quot;&gt;watchlist&lt;/a&gt; – a movie list app built with react&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bradleyboy/yarsk&quot;&gt;yarsk&lt;/a&gt; – yet another react starter kit&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mgechev/angular-aop/#v040&quot;&gt;angular-aop 0.4.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://eslint.org/blog/2015/03/eslint-0.17.1-released/&quot;&gt;eslint 0.17.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/eslint/espree/releases/tag/v1.12.0&quot;&gt;espree 1.12.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-03-19-version-160-chrisdickinson&quot;&gt;iojs 1.6.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions&quot;&gt;meteor 1.0.4&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.nodejs.org/2015/03/14/node-v0-10-37-stable/&quot;&gt;node v0.10.37&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/orbitjs/orbit.js/releases/tag/v0.6.1&quot;&gt;orbit.js 0.6.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/angular/protractor/blob/master/CHANGELOG.md#200&quot;&gt;protractor 2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://facebook.github.io/react/blog/2015/03/16/react-v0.13.1.html&quot;&gt;react v0.13.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/yahoo/react-intl/&quot;&gt;react-intl 1.2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/rackt/react-router/blob/master/CHANGELOG.md#v0131---fri-20-mar-2015-222157-gmt&quot;&gt;react-router 0.13.1&lt;/a&gt;&lt;/p&gt;
+</description>
+			<pubDate>Sat, 21 Mar 2015 00:00:00 +0300</pubDate>
+			<link>http://olegafx.ru/summaryjs-issue-6</link>
+			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-6</guid>
+		</item>
+		
+		<item>
+			<title>SummaryJS, issue 5</title>
+			<description>&lt;h2&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU#emberconf&quot;&gt;EmberConf 2015&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7&quot;&gt;ng-conf 2015&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=M_Wp-2XA9ZU&quot;&gt;ng-wat&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=IkQ5r6kNiN8&quot;&gt;3 Reasons to Love React&lt;/a&gt;  &lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=RVEntHvof2w&quot;&gt;Advancing JavaScript without breaking the web&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=o5E894TmHJg&quot;&gt;Flux Tutorial - Writing a Simple App in Flux and React&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Articles, slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://developer.telerik.com/featured/adding-audio-to-web-apps/&quot;&gt;Adding Audio to Web Apps&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html&quot;&gt;Application Architecture with React: rethinking Flux&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://speakerdeck.com/sebmck/babel-beyond-the-basics&quot;&gt;Babel: Beyond the Basics&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/&quot;&gt;Boiling React Down to a Few Lines of jQuery&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@learnreact/container-components-c0e67432e005&quot;&gt;Container Components&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://frederic-hemberger.de/talks/concat-websecurity/#/cover&quot;&gt;Developing a web-security mindset&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/hemanth/es7-features&quot;&gt;es7-features&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://weblogs.asp.net/dwahlin/getting-started-with-typescript-classes-static-types-and-interfaces&quot;&gt;Getting Started with TypeScript – Classes, Types and Interfaces&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://rangle.io/bloghow-to-embrace-angular-2-today-with-future-friendly-angular-1-3/&quot;&gt;How to Embrace Angular 2.0 Today with a Future-Friendly Angular 1.3 Application&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/wycats/javascript-decorators&quot;&gt;javascript-decorators&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@jbscript/lazy-live-data-with-react-79ed1cb1f4d6&quot;&gt;Lazy live data with React&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.pandastrike.com/posts/20150311-react-bad-idea&quot;&gt;React Is A Terrible Idea&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://kevnz.github.io/serversidereact/&quot;&gt;React on the Server&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://bensmithett.com/smarter-css-builds-with-webpack/&quot;&gt;Smarter CSS builds with Webpack&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://codepen.io/trey/blog/tabbed-navigation-react&quot;&gt;Tabbed Navigation with React&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@aripalo/thoughts-on-angular-2-after-ng-conf-2015-and-some-whisky-8392c260095c&quot;&gt;Thoughts on Angular 2 after ng-conf 2015 (and some whisky)&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.crashlytics.com/blog/building-user-interfaces-with-react/&quot;&gt;Why We Are Converting to React&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tools, libs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/lapwinglabs/100-ways-to-die&quot;&gt;100-ways-to-die&lt;/a&gt; – an exploration into zero-downtime node servers&lt;br/&gt;
+&lt;a href=&quot;https://github.com/newsdev/ai2html/&quot;&gt;ai2html&lt;/a&gt; – a script for Adobe Illustrator that converts your Illustrator artwork into an html page&lt;br/&gt;
+&lt;a href=&quot;https://github.com/vicapow/all-the-steets&quot;&gt;all-the-steets&lt;/a&gt; – generate a map of all the streets in America&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mikolalysenko/alpha-shape&quot;&gt;alpha-shape&lt;/a&gt; – any dimensional alpha shapes&lt;br/&gt;
+&lt;a href=&quot;https://github.com/shuvalov-anton/backbone-nprogress&quot;&gt;backbone-nprogress&lt;/a&gt; – show slim progress bars when your backbone collections and models are fetching&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Yomguithereal/baobab&quot;&gt;baobab&lt;/a&gt; – javascript data tree with cursors&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jotform/before-after.js&quot;&gt;before-after.js&lt;/a&gt; – an image comparision slider&lt;br/&gt;
+&lt;a href=&quot;https://github.com/maxogden/biofabric&quot;&gt;biofabric&lt;/a&gt; – a client side module for generating biofabric graphs in svg using d3&lt;br/&gt;
+&lt;a href=&quot;https://github.com/njsuperfreak/catalyst&quot;&gt;catalyst&lt;/a&gt; – a minimal ReactJS workflow enabling live-editing of React and Sass components without loosing state&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bradleyboy/codepen-react&quot;&gt;codepen-react&lt;/a&gt; – shim for using react at codepen&lt;br/&gt;
+&lt;a href=&quot;https://github.com/shes/comws&quot;&gt;comws&lt;/a&gt; – koa-like generator middlewares for any apps&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bevacqua/domador&quot;&gt;domador&lt;/a&gt; – dependency-free and lean dom parser that outputs markdown&lt;br/&gt;
+&lt;a href=&quot;https://github.com/DanielRapp/doppler&quot;&gt;doppler&lt;/a&gt; – motion detection using the doppler effect&lt;br/&gt;
+&lt;a href=&quot;https://github.com/christianalfoni/EmptyBox&quot;&gt;EmptyBox&lt;/a&gt; – a complete isomorphic hackable blog service based on react&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Gillespie59/eslint-plugin-angular&quot;&gt;eslint-plugin-angular&lt;/a&gt; – eslint plugin for angular applications&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Pestov/essential-gulp-plugins&quot;&gt;essential-gulp-plugins&lt;/a&gt; – living list of most useful plugins for gulp&lt;br/&gt;
+&lt;a href=&quot;https://github.com/pheuter/essential-react&quot;&gt;essential-react&lt;/a&gt; – a minimal skeleton for building testable react apps using es6&lt;br/&gt;
+&lt;a href=&quot;https://github.com/dgil/generator-firefox-extension&quot;&gt;generator-firefox-extension&lt;/a&gt; – yeoman generator for firefox extensions&lt;br/&gt;
+&lt;a href=&quot;https://github.com/freeall/github-with-auth&quot;&gt;github-with-auth&lt;/a&gt; – get started using the github in no time&lt;br/&gt;
+&lt;a href=&quot;https://github.com/linagora/hublin&quot;&gt;hublin&lt;/a&gt; – an easy and free video conference service&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Matthew-Dove/Inject&quot;&gt;Inject.js&lt;/a&gt; – inject html into your website from external sources&lt;br/&gt;
+&lt;a href=&quot;https://github.com/dustinhayes/json-native&quot;&gt;json-native&lt;/a&gt; – parse and stringify native javascript types&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bevacqua/kanye&quot;&gt;kanye&lt;/a&gt; – smash your keyboards with ease&lt;br/&gt;
+&lt;a href=&quot;https://github.com/malte-wessel/minimal-flux&quot;&gt;minimal-flux&lt;/a&gt; – a lightweight implementation of Flux&lt;br/&gt;
+&lt;a href=&quot;https://github.com/NativeScript/NativeScript&quot;&gt;NativeScript&lt;/a&gt; – open source framework for building cross-platform truly native iOS, Android and Windows mobile apps using javascript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/drKraken/notification-fallback.js&quot;&gt;notification-fallback.js&lt;/a&gt; – simple fallback for window.Notification&lt;br/&gt;
+&lt;a href=&quot;https://github.com/OSMBuildings/OSMBuildings&quot;&gt;OSMBuildings&lt;/a&gt; – OpenStreetMap building geoemetry on 2D and 3D maps&lt;br/&gt;
+&lt;a href=&quot;https://github.com/substack/outpipe&quot;&gt;outpipe&lt;/a&gt; – write output to a file through shell commands&lt;br/&gt;
+&lt;a href=&quot;https://github.com/thejameskyle/pretty-format&quot;&gt;pretty-format&lt;/a&gt; – stringify any javascript value&lt;br/&gt;
+&lt;a href=&quot;https://github.com/FormidableLabs/radium&quot;&gt;radium&lt;/a&gt; – a toolchain for react component styling&lt;br/&gt;
+&lt;a href=&quot;https://github.com/javierbyte/react-blur&quot;&gt;react-blur&lt;/a&gt; – react component for blurred backgrounds&lt;br/&gt;
+&lt;a href=&quot;https://github.com/schovi/react-iscroll&quot;&gt;react-iscroll&lt;/a&gt; – react component for wrapping iScroll&lt;br/&gt;
+&lt;a href=&quot;https://github.com/davidguttman/react-pivot&quot;&gt;react-pivot&lt;/a&gt; – a data-grid component with pivot-table-like functionality for data display, filtering, and exploration&lt;br/&gt;
+&lt;a href=&quot;https://github.com/js-next/react-style&quot;&gt;react-style&lt;/a&gt; – maintainable styling for react components&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Mango/slideout&quot;&gt;slideout&lt;/a&gt; – a touch slideout navigation menu for your mobile web apps&lt;br/&gt;
+&lt;a href=&quot;https://github.com/trevnorris/threx&quot;&gt;threx&lt;/a&gt; – spawn threads in javascript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/r3dm/thundercats&quot;&gt;thundercats&lt;/a&gt; – a flux architecture implementation based on rxjs&lt;br/&gt;
+&lt;a href=&quot;https://github.com/KyleAMathews/typography.js&quot;&gt;typography.js&lt;/a&gt; – an opinionated toolkit for building websites with beautiful typography&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mroth/unindexed&quot;&gt;unindexed&lt;/a&gt; – website that irrevocably deletes itself once indexed&lt;br/&gt;
+&lt;a href=&quot;https://github.com/shaunlebron/visualizing-projections&quot;&gt;visualizing-projections&lt;/a&gt; – interactive visualization of projections&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://eslint.org/blog/2015/03/eslint-0.16.2-released/&quot;&gt;ESLint 0.16.2&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/eslint/espree/releases/tag/v1.11.0&quot;&gt;espree 1.11.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.jquery.com/2015/03/10/esprima-2-1-released/&quot;&gt;esprima 2.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/acdlite/flummox/blob/master/CHANGELOG.md#301&quot;&gt;flummox 3.0.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ericclemmons/grunt-react&quot;&gt;grunt-react 0.12.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-03-09-version-151-rvagg&quot;&gt;io.js 1.5.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://facebook.github.io/react/blog/2015/03/10/react-v0.13.html&quot;&gt;react 0.13&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/gaearon/react-hot-loader/blob/master/CHANGELOG.md#123&quot;&gt;react-hot-loader 1.2.3&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/markdalgleish/react-to-html-webpack-plugin/blob/master/CHANGELOG.md#210---2015-03-12&quot;&gt;react-to-html-webpack 2.1.0&lt;/a&gt;&lt;/p&gt;
+</description>
+			<pubDate>Fri, 13 Mar 2015 00:00:00 +0300</pubDate>
+			<link>http://olegafx.ru/summaryjs-issue-5</link>
+			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-5</guid>
+		</item>
+		
+		<item>
+			<title>SummaryJS, issue 4</title>
+			<description>&lt;h2&gt;Video, podcasts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rxDM7OgPuKU&quot;&gt;Glen Maddern: A GIF odyssey&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=zxN8FYYBcrI&quot;&gt;Using React to record JSON videos&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://devchat.tv/js-jabber/149-jsj-passenger-enterprise-with-node-js-with-hongli-lai-and-tinco-andringa-&quot;&gt;JS Jabber #149: Passenger Enterprise with Node.js&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://fivejs.codeschool.com/episodes/72-episode-65-march-5th-2015&quot;&gt;FiveJS #65&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Quizzes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/gdi2290/ngExam&quot;&gt;ngExam&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Articles, style guides&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pbs.twimg.com/media/B-G3_T8CcAAmTHV.jpg:large&quot;&gt;React lifecycle chart&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/elierotenberg/coding-styles&quot;&gt;coding-styles&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f&quot;&gt;JavaScript — Just another introduction to ES6&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://developer.telerik.com/featured/introduction-to-the-react-javascript-framework/&quot;&gt;Introduction to the React JavaScript Framework&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.uxebu.com/blog/2015/03/tddbin-open-source-supports-es6-moves/&quot;&gt;TDDBin is open source, supports ES6 and moves on&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://blog.nraboy.com/2015/02/reverse-words-string-using-javascript/&quot;&gt;Reverse Words In A String Using JavaScript&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/&quot;&gt;Boost the Performance of AngularJS Application Using Immutable Data&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.allenpike.com/2015/javascript-framework-fatigue/&quot;&gt;A JS framework on every table&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.ibm.com/developerworks/library/wa-watson-explorer-react-app/index.html&quot;&gt;Create an IBM Watson explorer with React&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://arqex.com/991/json-editor-react-immutable-data&quot;&gt;A JSON editor with React and Immutable data&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://rss.reactloop.org/&quot;&gt;The ReactJS Reading Club&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://toddmotto.com/ditch-the-array-foreach-call-nodelist-hack/&quot;&gt;Ditch the [].forEach.call(NodeList) hack&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/facebook/react/issues/3226&quot;&gt;React: Reuse Constant Value Types like ReactElement&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://mattwilcox.net/web-development/http2-for-front-end-web-developers&quot;&gt;HTTP2 for front-end web developers&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html&quot;&gt;Change And Its Detection In JavaScript Frameworks&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://facebook.github.io/react/blog/2015/03/04/community-roundup-25.html&quot;&gt;React Community Round-up #25&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://red-badger.com/blog/2015/03/04/react-native-the-killer-feature-that-nobody-talks-about/&quot;&gt;React Native – The Killer Feature that Nobody Talks About&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blackmuttmedia.com/blog/a-reactjs-and-foundation-framework-reveal-modal/&quot;&gt;A ReactJS and Foundation Framework Reveal Modal&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.2ality.com/2015/03/no-promises.html&quot;&gt;No promises: asynchronous JavaScript with only generators&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.npmjs.org/post/112712169830/making-your-jquery-plugin-work-better-with-npm&quot;&gt;Making your jQuery plugin work better with npm tools&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://javascriptplayground.com/blog/2015/03/node-command-line-tool/&quot;&gt;Writing Command Line Tools with Node&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.mgechev.com/2015/03/05/persistent-state-reactjs/&quot;&gt;Persistent State of a ReactJS Component&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tools, libs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/nikogu/game-sprite&quot;&gt;game-sprite&lt;/a&gt; – the professional library for javascript game sprite&lt;br/&gt;
+&lt;a href=&quot;https://github.com/zackify/react-slug&quot;&gt;react-slug&lt;/a&gt; – a react component that will turn any input into a url friendly slug&lt;br/&gt;
+&lt;a href=&quot;https://github.com/antwarjs/antwar&quot;&gt;antwar&lt;/a&gt; – a static site generator built with react and webpack&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jonschlinkert/template-helpers&quot;&gt;template-helpers&lt;/a&gt; – generic javascript helpers that can be used with any template engine&lt;br/&gt;
+&lt;a href=&quot;https://github.com/keithwhor/canvasBlurRect&quot;&gt;canvasBlurRect&lt;/a&gt; – real-time (30+ fps) ios-style box blur + saturation with html5 canvas&lt;br/&gt;
+&lt;a href=&quot;https://github.com/andrew-codes/react-blog&quot;&gt;react-blog&lt;/a&gt; – isomorphic reactjs/flux blog engine&lt;br/&gt;
+&lt;a href=&quot;https://github.com/dinks/grunt-warn-friday&quot;&gt;grunt-warn-friday&lt;/a&gt; – grunt to warn developers of a Friday deployment&lt;br/&gt;
+&lt;a href=&quot;https://github.com/KyleAMathews/react-headroom&quot;&gt;react-headroom&lt;/a&gt; – hide your header until you need it&lt;br/&gt;
+&lt;a href=&quot;https://github.com/radiosilence/xr&quot;&gt;xr&lt;/a&gt; – ultra-simple wrapper around XMLHttpRequest&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mdipierro/markmin.js&quot;&gt;markmin.js&lt;/a&gt; – yet another wiki markup language&lt;br/&gt;
+&lt;a href=&quot;https://github.com/nehz/ngWebAudio&quot;&gt;ngWebAudio&lt;/a&gt; – angular module for playing audio using the webaudio api&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bevacqua/fuzzysearch&quot;&gt;fuzzysearch&lt;/a&gt; – tiny and blazing-fast fuzzy search in javascript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mgechev/react-pstate&quot;&gt;react-pstate&lt;/a&gt; – persistence of the state of react component&lt;br/&gt;
+&lt;a href=&quot;https://github.com/substack/shipboard&quot;&gt;shipboard&lt;/a&gt; – build and plan software projects in tiny pieces&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jfeigel/ngLoader&quot;&gt;ngLoader&lt;/a&gt; – loading animation for angular&lt;br/&gt;
+&lt;a href=&quot;https://github.com/meteorhybrid/mac&quot;&gt;mac&lt;/a&gt; – hybrid desktop app build tools for meteor&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/to-fast-properties&quot;&gt;to-fast-properties&lt;/a&gt; – force V8 to use fast properties for an object&lt;br/&gt;
+&lt;a href=&quot;https://github.com/pgte/nock&quot;&gt;nock&lt;/a&gt; – http mocking and expectations library&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sass-eyeglass/eyeglass&quot;&gt;eyeglass&lt;/a&gt; – npm modules for sass&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ericclemmons/react-resolver&quot;&gt;react-resolver&lt;/a&gt; – isomorphic library to recursively lazy-load data for react components&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ByNathan/jQuery.imgx&quot;&gt;jQuery.imgx&lt;/a&gt; – extension for serving hi-res images on desktop/mobile&lt;br/&gt;
+&lt;a href=&quot;https://github.com/rstacruz/unorphan&quot;&gt;unorphan&lt;/a&gt; – removes text orphans&lt;br/&gt;
+&lt;a href=&quot;https://github.com/DanWahlin/AngularTypeScript&quot;&gt;AngularTypeScript&lt;/a&gt; – an angular and typescript demo app that integrates with Azure AD and Office 365 cloud services&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/eslint/espree/releases/tag/v1.10.0&quot;&gt;espree 1.10.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/lodash/lodash-fp&quot;&gt;lodash-fp 0.3.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ilyavolodin/eslint-plugin-backbone&quot;&gt;eslint-plugin-backbone 1.0.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/babel/babel/blob/master/CHANGELOG.md#464&quot;&gt;babel 4.6.4&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/orbitjs/orbit.js/releases/tag/v0.6.0&quot;&gt;orbit.js 0.6.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/yeoman/generator-node/releases/tag/v0.7.0&quot;&gt;node yeoman generator 0.7.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://reactjs.net/2015/03/1.4.0-release.html&quot;&gt;ReactJS.NET 1.4&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/royriojas/eslint-friendly-formatter&quot;&gt;eslint-friendly-formatter 1.0.1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://facebook.github.io/react/blog/2015/03/03/react-v0.13-rc2.html&quot;&gt;react v0.13 rc2&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/emberjs/ember.js/pull/10501&quot;&gt;ember Glimmer engine&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/yeoman/generator/releases/tag/v0.18.10&quot;&gt;yeoman 0.18.10&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/chalk/releases/tag/v1.0.0&quot;&gt;chalk 1.0.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/acdlite/flummox/blob/master/CHANGELOG.md#2130&quot;&gt;flummox 2.13.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/orbitjs/ember-orbit&quot;&gt;ember-orbit 0.6.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/iojs/io.js/issues/1060&quot;&gt;io.js 1.5.0&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;AngularJS 2.0&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://angular.io/&quot;&gt;site&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/angular/quickstart&quot;&gt;quickstart&lt;/a&gt;&lt;/p&gt;
+</description>
+			<pubDate>Fri, 06 Mar 2015 00:00:00 +0300</pubDate>
+			<link>http://olegafx.ru/summaryjs-issue-4</link>
+			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-4</guid>
+		</item>
+		
+		<item>
+			<title>SummaryJS, issue 3</title>
+			<description>&lt;h2&gt;Video, podcasts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/bolshchikov/js-must-watch&quot;&gt;js-must-watch&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://perf-tooling.today/videos&quot;&gt;perf-tooling&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://vimeo.com/120474703&quot;&gt;The Web’s Future is Offline&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://egghead.io/lessons/react-reflux-creating-your-first-action-in-react&quot;&gt;Reflux - Creating Your First Action in React&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://overcast.fm/podcasts/episode/87315109455702&quot;&gt;JS Jabber #147: io.js with Isaac Schleuter and Mikeal Rogers&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=-aWINzxCNW4&quot;&gt;Live Editing React with Amok&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=2pL28CcEijU&quot;&gt;What the… JavaScript?&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Articles, books&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://davidwalsh.name/visual-regression-testing-angular-applications&quot;&gt;Visual Regression Testing For Angular Applications&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://web-design-weekly.com/2015/02/19/preparing-ecmascript6/&quot;&gt;Preparing for ECMAScript 6&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/fdecampredon/rx-flux/issues/10&quot;&gt;The right API for rx-flux&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.udacity.com/2014/12/web-developer-hiring-trends-mean.html&quot;&gt;Web Developer Hiring Trends, and What They Mean For You&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://aeflash.com/2015-02/react-tips-and-best-practices.html&quot;&gt;React Tips and Best Practices&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://people.mozilla.org/~jorendorff/es6-draft.html&quot;&gt;ECMAScript 6 Release Candidate #1&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://rauchg.com/2015/ecmascript-6/&quot;&gt;ECMAScript 6&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html&quot;&gt;Introducing Relay and GraphQL&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://gist.github.com/rauchg/93d8b831e286bcb30d84&quot;&gt;Effective transpiling of ES6&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://ryanclark.me/getting-started-with-flux/&quot;&gt;Introduction to Facebook&#39;s Flux architecture&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://davidwalsh.name/fixing-coercion&quot;&gt;Fixing Coercion, Not The Symptoms&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://axiacore.com/blog/beginners-introduction-reactjs/&quot;&gt;Beginner&#39;s introduction to React.js&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://blog.mozilla.org/research/2015/02/23/the-emterpreter-run-code-before-it-can-be-parsed/&quot;&gt;The Emterpreter: Run code before it can be parsed&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://openmymind.net/Using-Javascript-Generators/&quot;&gt;Using Javascript Generators&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/jesstelford/react-isomorphic-boilerplate&quot;&gt;Isomorphic Server &amp;amp; Browser Side Rendering with React &gt;= 0.12&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@nickheiner/how-to-write-sane-reusable-grunt-tasks-61f5dfc9635c&quot;&gt;How to Write Sane, Reusable Grunt Tasks&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://davidwalsh.name/javascript-battery-api&quot;&gt;JavaScript Battery API: Promises&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.gospodarets.com/track_javascript_angularjs_and_jquery_errors_with_google_analytics/&quot;&gt;Track JavaScript, AngularJS and jQuery errors with Google Analytics&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.jquery.com/2015/02/24/getting-on-point/&quot;&gt;Getting on Point&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://speakerdeck.com/mgechev/angularjs-in-patterns-lightning-talk&quot;&gt;AngularJS in Patterns&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://davidwalsh.name/gulp-run-sequence&quot;&gt;Sync Gulp Tasks with run-sequence&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://css-tricks.com/using-angularjs-for-data-visualisations/&quot;&gt;Using AngularJS for Data Visualisations&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.2ality.com/2015/02/es6-iteration.html&quot;&gt;Iterables and iterators in ECMAScript 6&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://blog.mozilla.org/javascript/2015/02/26/the-path-to-parallel-javascript/&quot;&gt;The Path to Parallel JavaScript&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://zapier.com/engineering/react-js-tutorial-guide-gotchas/&quot;&gt;React JS Tutorial and Guide to the Gotchas&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/iammerrick/the-frankenstein-framework/&quot;&gt;the-frankenstein-framework&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tools, libs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/moklick/frontend-stuff&quot;&gt;frontend-stuff&lt;/a&gt; – a continuously expanded list of framework/libraries and tools&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sebslomski/react-stats&quot;&gt;react-stats&lt;/a&gt; – react performance monitor&lt;br/&gt;
+&lt;a href=&quot;https://github.com/dimsemenov/PhotoSwipe&quot;&gt;PhotoSwipe&lt;/a&gt; – javascript image gallery for mobile and desktop, modular, framework independent&lt;br/&gt;
+&lt;a href=&quot;https://github.com/alexanderGugel/validate-asm&quot;&gt;validate-asm&lt;/a&gt; – like jslint, but for asm.js&lt;br/&gt;
+&lt;a href=&quot;https://github.com/bigpipe/react-jsx&quot;&gt;react-jsx&lt;/a&gt; – compile transform your jsx templates into a template engine that works client and server side&lt;br/&gt;
+&lt;a href=&quot;https://github.com/maxwellito/vivus&quot;&gt;vivus&lt;/a&gt; – javascript library to make drawing animation on SVG&lt;br/&gt;
+&lt;a href=&quot;https://github.com/davidchang/ngReact&quot;&gt;ngReact&lt;/a&gt; – use react components in angular&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mgechev/react-drag&quot;&gt;react-drag&lt;/a&gt; – fork of &lt;a href=&quot;https://github.com/mzabriskie/react-draggable/&quot;&gt;react-draggable&lt;/a&gt;, react draggable component&lt;br/&gt;
+&lt;a href=&quot;https://github.com/mattpat/node-schedule&quot;&gt;node-schedule&lt;/a&gt; – a cron-like and not-cron-like job scheduler for node&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sheltonial/wallaby-ng-html2js-preprocessor&quot;&gt;wallaby-ng-html2js-preprocessor&lt;/a&gt; – wallaby.js preprocessor to compile angular templates to javascript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/babel/babel-eslint&quot;&gt;babel-eslint&lt;/a&gt; – a module that allows you to lint all valid babel code with the fantastic eslint&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/substack/node-browserify/blob/master/changelog.markdown#900&quot;&gt;browserify 9.0.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/lodash/lodash/wiki/Changelog#v330&quot;&gt;lodash 3.3.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://eslint.org/blog/2015/02/eslint-0.15.0-released/&quot;&gt;ESLint 0.15.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/eventualbuddha/decaffeinate&quot;&gt;decaffeinate 1.6.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://dm.gl/2015/02/23/wallaby-version-one/&quot;&gt;wallaby 1.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/tmpvar/jsdom/blob/master/Changelog.md#400&quot;&gt;jsdom 4.0.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/rackt/react-router/blob/master/CHANGELOG.md#v0122---tue-24-feb-2015-003416-gmt&quot;&gt;react-router 0.12.2&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sindresorhus/pageres/releases/tag/v1.2.0&quot;&gt;pageres 1.2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/Polymer/polymer/blob/0.8-preview/PRIMER.md&quot;&gt;Polymer 0.8&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://facebook.github.io/react/blog/2015/02/24/react-v0.13-rc1.html&quot;&gt;react 0.13 RC&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/emberjs/ember.js/releases/tag/v1.11.0-beta.3&quot;&gt;Ember 1.11.0 beta 3&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/markdalgleish/react-to-html-webpack-plugin&quot;&gt;react-to-html-webpack-plugin 2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/insin/react-plain-editable/releases/tag/v2.0.0&quot;&gt;react-plain-editable 2.0.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-02-28-version-142-rvagg&quot;&gt;io.js 1.4.2&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/gaearon/react-dnd/blob/master/docs/UPGRADE_GUIDE.md#08x---09x&quot;&gt;react-dnd 0.9.0&lt;/a&gt;&lt;/p&gt;
+</description>
+			<pubDate>Sun, 01 Mar 2015 00:00:00 +0300</pubDate>
+			<link>http://olegafx.ru/summaryjs-issue-3</link>
+			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-3</guid>
+		</item>
+		
+		<item>
+			<title>SummaryJS, issue 2</title>
+			<description>&lt;h2&gt;Video, podcasts&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=6tgbrN0vyec&quot;&gt;ES6 vs Today&lt;/a&gt; &lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=uD6Okha_Yj0&quot;&gt;An Angular2 Todo App: First look at App Development in Angular2&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://www.youtube.com/watch?v=jnOAbsBsd4g&quot;&gt;Async Apps with React and Flux&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.2ality.com/2015/02/using-es6-today-minsk.html&quot;&gt;A 90 minute overview of ECMAScript 6&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://thewebplatform.libsyn.com/31-building-with-reactjs&quot;&gt;Building with React.js&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://egghead.io/lessons/javascript-intro-to-webpack&quot;&gt;Intro to Webpack&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers&quot;&gt;io.js with Isaac Schleuter and Mikeal Rogers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Quizzes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://davidshariff.com/js-quiz&quot;&gt;js-quiz&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://perfectionkills.com/javascript-quiz/&quot;&gt;javascript-quiz&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Articles, books&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/mozilla/addon-sdk/wiki/Coding-style-guide#variables&quot;&gt;ECMAScript const pattern&lt;/a&gt; – answer to Dan’s &lt;a href=&quot;https://twitter.com/dan_abramov/status/565999273821888512&quot;&gt;question&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://speakerdeck.com/dougneiner/react-unidirectional-data-flow-and-you&quot;&gt;React, Unidirectional Data Flow, and You&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://gauntface.com/blog/2015/02/11/fetch-is-the-new-xhr&quot;&gt;Fetch is the new XHR&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://gist.github.com/jed/6147872&quot;&gt;How to set up stress-free SSL on an OS X development machine&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.celerity.com/react/flux-from-an-angularjs-perspective&quot;&gt;React/Flux from an AngularJS Perspective&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/&quot;&gt;Demystifying JavaScript Closures, Callbacks and IIFEs&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://javascriptplayground.com/blog/2015/02/promises/&quot;&gt;Embracing Promises in JavaScript&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.thesoftwaresimpleton.com/blog/2015/02/12/emberjs-data-down/&quot;&gt;ember.js - Data Down, Actions up…better but Still Not Far Enough&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.slideshare.net/x00mario/es6-en&quot;&gt;ECMAScript 6 from an Attacker&#39;s Perspective&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://blog.nraboy.com/2015/02/solve-2d-array-maze-using-recursion-javascript/&quot;&gt;Solve A 2D Array Maze Using Recursion And JavaScript&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://babeljs.io/blog/2015/02/15/not-born-to-die/&quot;&gt;6to5. Not Born to Die&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://teropa.info/build-your-own-angular&quot;&gt;Build Your Own AngularJS&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.2ality.com/2015/02/es6-classes-final.html&quot;&gt;Classes in ECMAScript 6 (final semantics)&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://dm.gl/2015/02/16/wallaby-angular/&quot;&gt;Testing angular.js application with wallaby.js&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.durandal.io/2015/02/16/end-to-end-testing-with-aurelia-and-protractor/&quot;&gt;End-to-End Testing with Aurelia and Protractor&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html&quot;&gt;Lazy Iterables in JavaScript&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d&quot;&gt;How we built the new BBC Homepage&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://angularjs.blogspot.ru/2015/02/preview-of-new-angular-router.html&quot;&gt;Preview of the New Angular Router&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://ryanclark.me/getting-started-with-react/&quot;&gt;Getting started with React&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://leanpub.com/angularjsdirectives&quot;&gt;Deep dive into Angular.js directives&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6&quot;&gt;The Case for Flux&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.npmjs.org/post/111385956875/welcome-jquery-developers&quot;&gt;Welcome, jQuery developers&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Tools, libs&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/derekshull/nines&quot;&gt;nines&lt;/a&gt; – a web performance tool aimed to help developers find critical performance issues&lt;br/&gt;
+&lt;a href=&quot;https://github.com/gcanti/tcomb&quot;&gt;tcomb&lt;/a&gt; – type checking for JavaScript&lt;br/&gt;
+&lt;a href=&quot;https://github.com/sdelements/lets-chat&quot;&gt;lets-chat&lt;/a&gt; – self-hosted chat app for small teams&lt;br/&gt;
+&lt;a href=&quot;https://github.com/byte-foundry/plumin.js&quot;&gt;plumin.js&lt;/a&gt; – create and manipulate fonts like there&#39;s no tomorrow&lt;br/&gt;
+&lt;a href=&quot;http://jlord.us/sheetsee.js/&quot;&gt;Sheetsee.js&lt;/a&gt; – a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables, maps and charts&lt;br/&gt;
+&lt;a href=&quot;https://github.com/eprev/specificity&quot;&gt;node-specificity&lt;/a&gt; – CSS Explorer&lt;br/&gt;
+&lt;a href=&quot;https://github.com/reapp/hacker-news-app&quot;&gt;hacker-news-app&lt;/a&gt; – Hacker News Reader demo app built on Reapp&lt;br/&gt;
+&lt;a href=&quot;https://github.com/formly-js/angular-formly&quot;&gt;angular-formly&lt;/a&gt; – JavaScript powered forms for AngularJS&lt;br/&gt;
+&lt;a href=&quot;https://github.com/lukehoban/es6features&quot;&gt;es6features&lt;/a&gt; – overview of ECMAScript 6 features&lt;br/&gt;
+&lt;a href=&quot;https://github.com/gaearon/react-side-effect&quot;&gt;react-side-effect&lt;/a&gt; – create components whose prop changes map to a global side effect&lt;br/&gt;
+&lt;a href=&quot;https://github.com/estree/estree&quot;&gt;ESTree&lt;/a&gt; – the ESTree Spec&lt;br/&gt;
+&lt;a href=&quot;https://github.com/saulhoward/react-evil-icons&quot;&gt;react-evil-icons&lt;/a&gt; – Evil icons as react components&lt;br/&gt;
+&lt;a href=&quot;http://leaverou.github.io/awesomplete/&quot;&gt;2KB autocomplete&lt;/a&gt; – ultra lightweight, customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers&lt;/p&gt;
+
+&lt;h2&gt;Updates&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#february_20_2015_rev_34_release_candidate_1&quot;&gt;ES.next Draft Rev 34&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/lodash/lodash/wiki/Changelog#v320&quot;&gt;lodash 3.2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blog.jetbrains.com/webstorm/2015/02/webstorm-10-eap-140-2424/&quot;&gt;WebStorm 10 EAP 140.2424&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://habrahabr.ru/post/250589/&quot;&gt;Angular Light 0.8&lt;/a&gt;
+&lt;a href=&quot;https://plus.google.com/+JulieRalph/posts/94QTyQxFMTm&quot;&gt;Protractor 1.7.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://blogs.msdn.com/b/eternalcoding/archive/2015/02/18/what-s-new-in-babylon-js-v2-0.aspx&quot;&gt;Babylon.js v2.0&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;https://github.com/ejci/favico.js&quot;&gt;favico.js 0.3.6&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2&gt;Google IO 2015&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://events.google.com/io2015/&quot;&gt;site&lt;/a&gt;&lt;/p&gt;
+</description>
+			<pubDate>Fri, 20 Feb 2015 00:00:00 +0300</pubDate>
+			<link>http://olegafx.ru/summaryjs-issue-2</link>
+			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-2</guid>
+		</item>
+		
+		<item>
 			<title>SummaryJS, issue 1</title>
 			<description>&lt;h2&gt;React Conf&lt;/h2&gt;
 
@@ -66,7 +558,7 @@
 &lt;a href=&quot;https://twitter.com/wallabyjs&quot;&gt;Twitter&lt;/a&gt;&lt;br/&gt;
 &lt;a href=&quot;http://www.youtube.com/watch?v=uUmF16R9JNs&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
 </description>
-			<pubDate>Thu, 05 Feb 2015 00:00:00 +0300</pubDate>
+			<pubDate>Thu, 12 Feb 2015 00:00:00 +0300</pubDate>
 			<link>http://olegafx.ru/summaryjs-issue-1</link>
 			<guid isPermaLink="true">http://olegafx.ru/summaryjs-issue-1</guid>
 		</item>
@@ -269,131 +761,6 @@ boot2docker up&lt;/code&gt;&lt;/pre&gt;
 			<pubDate>Thu, 27 Feb 2014 00:00:00 +0400</pubDate>
 			<link>http://olegafx.ru/atom-new-texteditor-from-github</link>
 			<guid isPermaLink="true">http://olegafx.ru/atom-new-texteditor-from-github</guid>
-		</item>
-		
-		<item>
-			<title>CloudUp — сервис мгновенного обмена данными (+ бонус внутри)</title>
-			<description>&lt;p&gt;Есть огромное количество сервисов, позволяющих делать скриншоты и сразу же загружать их в облако. Скриншот можно посмотреть, зайдя по ссылке. То есть не надо ничего сохранять к себе на компьютер, мучаться с пересылкой по Skype или чему-то еще. Сделали скриншот, отправили ссылку. Люди сами посмотрят его в удобное для них время.&lt;/p&gt;
-
-&lt;p&gt;Например, есть &lt;a href=&quot;http://prntscr.com/&quot;&gt;LightShot&lt;/a&gt;. Можно &lt;a href=&quot;https://www.dropbox.com/help/1964/ru&quot;&gt;настроить Dropbox&lt;/a&gt;, чтобы он делал нечто подобное. Платный &lt;a href=&quot;https://droplr.com&quot;&gt;droplr&lt;/a&gt; умеет отправлять не только скриншоты, но и разные файлы — архивы, презентации, айдио-файлы и т.д.&lt;/p&gt;
-
-&lt;h3&gt;CloudUp&lt;/h3&gt;
-
-&lt;p&gt;На горизонте появился еще один подобный сервис — &lt;a href=&quot;https://cloudup.com&quot;&gt;CloudUp&lt;/a&gt;. В чем его особенности:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;можно пользоваться совершенно бесплатно и загружать до 1000 файлов по 200 мегабайт каждый&lt;/li&gt;
-&lt;li&gt;загрузка всех основных типов документов&lt;/li&gt;
-&lt;li&gt;начать просмотр по ссылке можно еще до того, как файл полностью загружен&lt;/li&gt;
-&lt;li&gt;одним из разработчиков является Guillermo Rauch — создатель &lt;a href=&quot;socket.io&quot;&gt;socket.io&lt;/a&gt;. Кстати, не забудьте посмотреть &lt;a href=&quot;https://cloudup.com/cMrYoTieM0c&quot;&gt;новый пример&lt;/a&gt; чата в master-ветке socket.io (вот и пример видео на сервисе CloudUp)&lt;/li&gt;
-&lt;li&gt;сервис и приложение, как я понимаю, написаны на &lt;a href=&quot;http://nodejs.org/&quot;&gt;NodeJS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;Если вы цените скорость обмена данными и удобство этого дела, то советую попробовать данный сервис. Есть приложение для Windows, Mac. Веб-версия настолько крута, что ей можно спокойно пользоваться на телефоне.&lt;/p&gt;
-
-&lt;h3&gt;Бонусы&lt;/h3&gt;
-
-&lt;p&gt;Проект еще находится в стадии закрытого тестирования. У меня есть 10 инвайтов. Можете зарегистрироваться по &lt;a href=&quot;https://cloudup.com/s/olegafx-782&quot;&gt;этой ссылке&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Кстати, про сам сервис я узнал из этого замечательного &lt;a href=&quot;http://www.youtube.com/watch?v=Ar9R-CX217o&quot;&gt;доклада&lt;/a&gt;. Всем советую посмотреть и вдохновиться.&lt;/p&gt;
-
-&lt;div class=&#39;embed-container&#39;&gt;&lt;iframe src=&#39;http://www.youtube.com/embed/Ar9R-CX217o&#39; frameborder=&#39;0&#39; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-
-&lt;p&gt;На этом всё. Есть мысли прикрутить комментарии к блогу. А пока можете писать мне в &lt;a href=&quot;http://twitter.com/olegafx/&quot;&gt;Twitter&lt;/a&gt; &lt;img class=&quot;emoji&quot; title=&quot;wink&quot; alt=&quot;wink&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/wink.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
-</description>
-			<pubDate>Fri, 21 Feb 2014 00:00:00 +0400</pubDate>
-			<link>http://olegafx.ru/cloudup-сервис-мгновенного-обмена-данными</link>
-			<guid isPermaLink="true">http://olegafx.ru/cloudup-сервис-мгновенного-обмена-данными</guid>
-		</item>
-		
-		<item>
-			<title>Чистый код</title>
-			<description>&lt;p&gt;Первый пост в этом блоге я хочу посвятить одной замечательной книге.
-Книге, которая полностью перевернула мой взгляд на написание кода для решения каких-то задач.&lt;/p&gt;
-
-&lt;h3&gt;Немного истории&lt;/h3&gt;
-
-&lt;p&gt;Случилось это полтора года назад.
-Совсем зелёный я (к счастью) написал на своей первой работе первый реальный код.
-И сразу же почуял его запах…&lt;/p&gt;
-
-&lt;p&gt;В то время я уже знал про модное слово “рефакторинг”.
-И вот я прямо таки почувствовал, что мне нужно сделать этот “рефакторинг”.
-Я спросил нашего главного разработчика, есть ли в офисе книга по этой дисциплине.
-Он сказал, что есть, и дал мне в руки книжку “Чистый Код” Боба Мартина.
-Также он добавил, что эта книга полностью изменила его взгляд на написание кода.
-Я покосился скептическим взглядом и пошел домой читать книгу.&lt;/p&gt;
-
-&lt;p&gt;Книга оказалась сборником советов и примерами того как надо или не надо писать код.
-Признаться честно, сразу я книгу совершенно не оценил.
-Пытался писать по ней — мало что получалось.
-Комментарии, которые дядюшка Боб советовал не писать в большинстве случаев, хотелось написать.&lt;/p&gt;
-
-&lt;p&gt;Но в один прекрасный момент всё изменилось.
-Я даже не могу вспомнить в какой.
-Пожалуй, это и неважно.
-Но я этому событию очень рад.&lt;/p&gt;
-
-&lt;h3&gt;О чем же книга&lt;/h3&gt;
-
-&lt;p&gt;Так вот, вернемся к книге.
-Она очень тоненькая — сама по себе всего 464 страницы “от корки до корки”,
-так еще и с 385-й страницы начинаются листинги кода, которые можно смело пропускать при первом прочтении.&lt;/p&gt;
-
-&lt;p&gt;Как я уже упомянул выше, книга — это сборник советов.
-Безо всякой воды.
-Совет, пример, антипример, совет, пример, … .
-Как и в каких случаях писать комментарии, как оформлять код, как делать его лучше,
-как именовать методы, сколько зон ответственности должно быть у той или иной сущности — всё это в книге написано.&lt;/p&gt;
-
-&lt;p&gt;Всем советую к обязательному прочтению.
-Обычно вместе с этой книгой называют еще “Совершенный Код”, но “Совершенный Код” — это много воды
-и очень спорных практик, которые не так просто начать применять, а “Чистый Код” — это набор советов,
-которые помогут сделать ваш код чистым, приятным и понятным для всех вокруг уже сегодня.&lt;/p&gt;
-
-&lt;h3&gt;Где купить&lt;/h3&gt;
-
-&lt;p&gt;Раньше книгу было очень легко купить, а теперь её почему-то нет ни на Ozon, ни на books.ru.
-Но она стоит того, чтобы её поискать &lt;img class=&quot;emoji&quot; title=&quot;wink&quot; alt=&quot;wink&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/wink.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
-
-&lt;h3&gt;В качестве заключения&lt;/h3&gt;
-
-&lt;p&gt;И напоследок небольшая цитата из книги (надеюсь, что издатели и автор не обидятся).&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;Хорошо написать код недостаточно.
-Необходимо поддерживать чистоту кода с течением времени.
-Все мы видели, как код загнивает и деградирует с течением времени.
-Значит, мы должны активно поработать над тем, чтобы этого не произошло.&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-			<pubDate>Tue, 18 Feb 2014 00:00:00 +0400</pubDate>
-			<link>http://olegafx.ru/чистый-код</link>
-			<guid isPermaLink="true">http://olegafx.ru/чистый-код</guid>
-		</item>
-		
-		<item>
-			<title>Это случилось!</title>
-			<description>&lt;p&gt;Уже очень давно собирался завести себе блог, где можно постить мысли длиннее, чем 140 символов в Твиттере.&lt;/p&gt;
-
-&lt;p&gt;Есть очень много штук, которые на чужих сервисах-то нормально и не расскажешь.
-Поэтому, сделал свой без &lt;a href=&quot;http://lurkmore.to/%D0%A4%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D0%BA&quot;&gt;фатального недостатка&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Сейчас пошла мода на flat-cms. Если кратко, то это CMS без баз данных. Всё основано на обычных файлах.
-В основе этого блога лежит &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; — генератор сайтов с &lt;a href=&quot;http://pages.github.com&quot;&gt;Github Pages&lt;/a&gt;.
-В качестве основы для темы выбрал &lt;a href=&quot;https://github.com/m3xm/hikari-for-Jekyll&quot;&gt;hikari&lt;/a&gt;.
-Сам блог хостится на бесплатном GitHub Pages, упомянутом выше.&lt;/p&gt;
-
-&lt;p&gt;Jekyll — очень крутая штука. Markdown, командная строка, git. Всё, как я люблю.
-Есть несколько моментов, которые реализуются через костыли, но во всём остальном очень даже.&lt;/p&gt;
-
-&lt;p&gt;Буду писать сюда про всякие интересные штуки, которые есть сейчас в мире разработки и не только.&lt;/p&gt;
-
-&lt;p&gt;Надеюсь, вам понравится. До скорых встреч! &lt;img class=&quot;emoji&quot; title=&quot;smile&quot; alt=&quot;smile&quot; src=&quot;https://github.global.ssl.fastly.net/images/icons/emoji/smile.png&quot; height=&quot;20&quot; width=&quot;20&quot; align=&quot;absmiddle&quot;&gt;&lt;/p&gt;
-</description>
-			<pubDate>Wed, 12 Feb 2014 00:00:00 +0400</pubDate>
-			<link>http://olegafx.ru/это-случилось</link>
-			<guid isPermaLink="true">http://olegafx.ru/это-случилось</guid>
 		</item>
 		
 	</channel>

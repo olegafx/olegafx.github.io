@@ -1,0 +1,82 @@
+---
+layout: post
+title: SummaryJS, issue 2
+tags: summaryjs, javascript, es2015, react, angular
+permalink: summaryjs-issue-2
+---
+
+Video, podcasts
+---------------
+
+[ES6 vs Today](https://www.youtube.com/watch?v=6tgbrN0vyec)   
+[An Angular2 Todo App: First look at App Development in Angular2](https://www.youtube.com/watch?v=uD6Okha_Yj0)  
+[Async Apps with React and Flux](https://www.youtube.com/watch?v=jnOAbsBsd4g)  
+[A 90 minute overview of ECMAScript 6](http://www.2ality.com/2015/02/using-es6-today-minsk.html)  
+[Building with React.js](http://thewebplatform.libsyn.com/31-building-with-reactjs)  
+[Intro to Webpack](https://egghead.io/lessons/javascript-intro-to-webpack)  
+[io.js with Isaac Schleuter and Mikeal Rogers](http://devchat.tv/js-jabber/147-jsj-io-js-with-isaac-schleuter-and-mikeal-rogers)
+
+Quizzes
+-------
+
+[js-quiz](http://davidshariff.com/js-quiz)  
+[javascript-quiz](http://perfectionkills.com/javascript-quiz/)
+
+Articles, books
+---------------
+
+[ECMAScript const pattern](https://github.com/mozilla/addon-sdk/wiki/Coding-style-guide#variables) – answer to Dan’s [question](https://twitter.com/dan_abramov/status/565999273821888512)  
+[React, Unidirectional Data Flow, and You](https://speakerdeck.com/dougneiner/react-unidirectional-data-flow-and-you)  
+[Fetch is the new XHR](https://gauntface.com/blog/2015/02/11/fetch-is-the-new-xhr)  
+[How to set up stress-free SSL on an OS X development machine](https://gist.github.com/jed/6147872)  
+[React/Flux from an AngularJS Perspective](http://blog.celerity.com/react/flux-from-an-angularjs-perspective)  
+[Demystifying JavaScript Closures, Callbacks and IIFEs](http://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/)  
+[Embracing Promises in JavaScript](http://javascriptplayground.com/blog/2015/02/promises/)  
+[ember.js - Data Down, Actions up…better but Still Not Far Enough](http://www.thesoftwaresimpleton.com/blog/2015/02/12/emberjs-data-down/)  
+[ECMAScript 6 from an Attacker's Perspective](http://www.slideshare.net/x00mario/es6-en)  
+[Solve A 2D Array Maze Using Recursion And JavaScript](https://blog.nraboy.com/2015/02/solve-2d-array-maze-using-recursion-javascript/)  
+[6to5. Not Born to Die](http://babeljs.io/blog/2015/02/15/not-born-to-die/)  
+[Build Your Own AngularJS](http://teropa.info/build-your-own-angular)  
+[Classes in ECMAScript 6 (final semantics)](http://www.2ality.com/2015/02/es6-classes-final.html)  
+[Testing angular.js application with wallaby.js](http://dm.gl/2015/02/16/wallaby-angular/)  
+[End-to-End Testing with Aurelia and Protractor](http://blog.durandal.io/2015/02/16/end-to-end-testing-with-aurelia-and-protractor/)  
+[Lazy Iterables in JavaScript](http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html)  
+[How we built the new BBC Homepage](http://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d)  
+[Preview of the New Angular Router](http://angularjs.blogspot.ru/2015/02/preview-of-new-angular-router.html)  
+[Getting started with React](http://ryanclark.me/getting-started-with-react/)  
+[Deep dive into Angular.js directives](https://leanpub.com/angularjsdirectives)  
+[The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)  
+[Welcome, jQuery developers](http://blog.npmjs.org/post/111385956875/welcome-jquery-developers)
+
+Tools, libs
+-----------
+
+[nines](https://github.com/derekshull/nines) – a web performance tool aimed to help developers find critical performance issues  
+[tcomb](https://github.com/gcanti/tcomb) – type checking for JavaScript  
+[lets-chat](https://github.com/sdelements/lets-chat) – self-hosted chat app for small teams  
+[plumin.js](https://github.com/byte-foundry/plumin.js) – create and manipulate fonts like there's no tomorrow  
+[Sheetsee.js](http://jlord.us/sheetsee.js/) – a client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables, maps and charts  
+[node-specificity](https://github.com/eprev/specificity) – CSS Explorer  
+[hacker-news-app](https://github.com/reapp/hacker-news-app) – Hacker News Reader demo app built on Reapp  
+[angular-formly](https://github.com/formly-js/angular-formly) – JavaScript powered forms for AngularJS  
+[es6features](https://github.com/lukehoban/es6features) – overview of ECMAScript 6 features  
+[react-side-effect](https://github.com/gaearon/react-side-effect) – create components whose prop changes map to a global side effect  
+[ESTree](https://github.com/estree/estree) – the ESTree Spec  
+[react-evil-icons](https://github.com/saulhoward/react-evil-icons) – Evil icons as react components  
+[2KB autocomplete](http://leaverou.github.io/awesomplete/) – ultra lightweight, customizable, simple autocomplete widget with zero dependencies, built with modern standards for modern browsers
+
+Updates
+-------
+
+[ES.next Draft Rev 34](http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#february_20_2015_rev_34_release_candidate_1)  
+[lodash 3.2.0](https://github.com/lodash/lodash/wiki/Changelog#v320)  
+[WebStorm 10 EAP 140.2424](http://blog.jetbrains.com/webstorm/2015/02/webstorm-10-eap-140-2424/)  
+[Angular Light 0.8](http://habrahabr.ru/post/250589/)
+[Protractor 1.7.0](https://plus.google.com/+JulieRalph/posts/94QTyQxFMTm)  
+[Babylon.js v2.0](http://blogs.msdn.com/b/eternalcoding/archive/2015/02/18/what-s-new-in-babylon-js-v2-0.aspx)  
+[favico.js 0.3.6](https://github.com/ejci/favico.js)
+
+Google IO 2015
+--------------
+
+[site](https://events.google.com/io2015/)

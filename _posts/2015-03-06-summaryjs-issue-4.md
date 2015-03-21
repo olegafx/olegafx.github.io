@@ -1,0 +1,97 @@
+---
+layout: post
+title: SummaryJS, issue 4
+tags: summaryjs, javascript, es2015, react, angular
+permalink: summaryjs-issue-4
+---
+
+Video, podcasts
+---------------
+
+[Glen Maddern: A GIF odyssey](https://www.youtube.com/watch?v=rxDM7OgPuKU)  
+[Using React to record JSON videos](https://www.youtube.com/watch?v=zxN8FYYBcrI)  
+[JS Jabber #149: Passenger Enterprise with Node.js](http://devchat.tv/js-jabber/149-jsj-passenger-enterprise-with-node-js-with-hongli-lai-and-tinco-andringa-)  
+[FiveJS #65](https://fivejs.codeschool.com/episodes/72-episode-65-march-5th-2015)
+
+Quizzes
+-------
+
+[ngExam](https://github.com/gdi2290/ngExam)
+
+Articles, style guides
+----------------------
+
+[React lifecycle chart](https://pbs.twimg.com/media/B-G3_T8CcAAmTHV.jpg:large)  
+[coding-styles](https://github.com/elierotenberg/coding-styles)  
+[JavaScript — Just another introduction to ES6](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)  
+[Introduction to the React JavaScript Framework](http://developer.telerik.com/featured/introduction-to-the-react-javascript-framework/)  
+[TDDBin is open source, supports ES6 and moves on](http://www.uxebu.com/blog/2015/03/tddbin-open-source-supports-es6-moves/)  
+[Reverse Words In A String Using JavaScript](https://blog.nraboy.com/2015/02/reverse-words-string-using-javascript/)  
+[Boost the Performance of AngularJS Application Using Immutable Data](http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/)  
+[A JS framework on every table](http://www.allenpike.com/2015/javascript-framework-fatigue/)  
+[Create an IBM Watson explorer with React](http://www.ibm.com/developerworks/library/wa-watson-explorer-react-app/index.html)  
+[A JSON editor with React and Immutable data](http://arqex.com/991/json-editor-react-immutable-data)  
+[The ReactJS Reading Club](http://rss.reactloop.org/)  
+[Ditch the [].forEach.call(NodeList) hack](http://toddmotto.com/ditch-the-array-foreach-call-nodelist-hack/)  
+[React: Reuse Constant Value Types like ReactElement](https://github.com/facebook/react/issues/3226)  
+[HTTP2 for front-end web developers](https://mattwilcox.net/web-development/http2-for-front-end-web-developers)  
+[Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)  
+[React Community Round-up #25](http://facebook.github.io/react/blog/2015/03/04/community-roundup-25.html)  
+[React Native – The Killer Feature that Nobody Talks About](http://red-badger.com/blog/2015/03/04/react-native-the-killer-feature-that-nobody-talks-about/)  
+[A ReactJS and Foundation Framework Reveal Modal](http://blackmuttmedia.com/blog/a-reactjs-and-foundation-framework-reveal-modal/)  
+[No promises: asynchronous JavaScript with only generators](http://www.2ality.com/2015/03/no-promises.html)  
+[Making your jQuery plugin work better with npm tools](http://blog.npmjs.org/post/112712169830/making-your-jquery-plugin-work-better-with-npm)  
+[Writing Command Line Tools with Node](http://javascriptplayground.com/blog/2015/03/node-command-line-tool/)  
+[Persistent State of a ReactJS Component](http://blog.mgechev.com/2015/03/05/persistent-state-reactjs/)
+
+Tools, libs
+-----------
+
+[game-sprite](https://github.com/nikogu/game-sprite) – the professional library for javascript game sprite  
+[react-slug](https://github.com/zackify/react-slug) – a react component that will turn any input into a url friendly slug  
+[antwar](https://github.com/antwarjs/antwar) – a static site generator built with react and webpack  
+[template-helpers](https://github.com/jonschlinkert/template-helpers) – generic javascript helpers that can be used with any template engine  
+[canvasBlurRect](https://github.com/keithwhor/canvasBlurRect) – real-time (30+ fps) ios-style box blur + saturation with html5 canvas  
+[react-blog](https://github.com/andrew-codes/react-blog) – isomorphic reactjs/flux blog engine  
+[grunt-warn-friday](https://github.com/dinks/grunt-warn-friday) – grunt to warn developers of a Friday deployment  
+[react-headroom](https://github.com/KyleAMathews/react-headroom) – hide your header until you need it  
+[xr](https://github.com/radiosilence/xr) – ultra-simple wrapper around XMLHttpRequest  
+[markmin.js](https://github.com/mdipierro/markmin.js) – yet another wiki markup language  
+[ngWebAudio](https://github.com/nehz/ngWebAudio) – angular module for playing audio using the webaudio api  
+[fuzzysearch](https://github.com/bevacqua/fuzzysearch) – tiny and blazing-fast fuzzy search in javascript  
+[react-pstate](https://github.com/mgechev/react-pstate) – persistence of the state of react component  
+[shipboard](https://github.com/substack/shipboard) – build and plan software projects in tiny pieces  
+[ngLoader](https://github.com/jfeigel/ngLoader) – loading animation for angular  
+[mac](https://github.com/meteorhybrid/mac) – hybrid desktop app build tools for meteor  
+[to-fast-properties](https://github.com/sindresorhus/to-fast-properties) – force V8 to use fast properties for an object  
+[nock](https://github.com/pgte/nock) – http mocking and expectations library  
+[eyeglass](https://github.com/sass-eyeglass/eyeglass) – npm modules for sass  
+[react-resolver](https://github.com/ericclemmons/react-resolver) – isomorphic library to recursively lazy-load data for react components  
+[jQuery.imgx](https://github.com/ByNathan/jQuery.imgx) – extension for serving hi-res images on desktop/mobile  
+[unorphan](https://github.com/rstacruz/unorphan) – removes text orphans  
+[AngularTypeScript](https://github.com/DanWahlin/AngularTypeScript) – an angular and typescript demo app that integrates with Azure AD and Office 365 cloud services
+
+Updates
+-------
+
+[espree 1.10.0](https://github.com/eslint/espree/releases/tag/v1.10.0)  
+[lodash-fp 0.3.0](https://github.com/lodash/lodash-fp)  
+[eslint-plugin-backbone 1.0.1](https://github.com/ilyavolodin/eslint-plugin-backbone)  
+[babel 4.6.4](https://github.com/babel/babel/blob/master/CHANGELOG.md#464)  
+[orbit.js 0.6.0](https://github.com/orbitjs/orbit.js/releases/tag/v0.6.0)  
+[node yeoman generator 0.7.0](https://github.com/yeoman/generator-node/releases/tag/v0.7.0)  
+[ReactJS.NET 1.4](http://reactjs.net/2015/03/1.4.0-release.html)  
+[eslint-friendly-formatter 1.0.1](https://github.com/royriojas/eslint-friendly-formatter)  
+[react v0.13 rc2](http://facebook.github.io/react/blog/2015/03/03/react-v0.13-rc2.html)  
+[ember Glimmer engine](https://github.com/emberjs/ember.js/pull/10501)  
+[yeoman 0.18.10](https://github.com/yeoman/generator/releases/tag/v0.18.10)  
+[chalk 1.0.0](https://github.com/sindresorhus/chalk/releases/tag/v1.0.0)  
+[flummox 2.13.0](https://github.com/acdlite/flummox/blob/master/CHANGELOG.md#2130)  
+[ember-orbit 0.6.0](https://github.com/orbitjs/ember-orbit)  
+[io.js 1.5.0](https://github.com/iojs/io.js/issues/1060)
+
+AngularJS 2.0
+-------------
+
+[site](https://angular.io/)  
+[quickstart](https://github.com/angular/quickstart)

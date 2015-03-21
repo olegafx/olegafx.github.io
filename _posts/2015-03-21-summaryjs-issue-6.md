@@ -1,0 +1,148 @@
+---
+layout: post
+title: SummaryJS, issue 6
+tags: summaryjs, javascript, es2015, react, angular
+permalink: summaryjs-issue-6
+---
+
+Video
+-----
+
+[Cincinnati Meteor Meetup - March Edition](https://www.youtube.com/watch?v=cYrTLZ4kcsU)  
+[Update ReactNative Video game music player upate](https://www.youtube.com/watch?v=WUd84Qw1VjY)  
+[Ember CLI + Firebase in 9 Minutes](https://www.youtube.com/watch?v=Cs3Fdup7aUo)  
+[Using PM2 To Keep Your Node Apps Alive](https://egghead.io/lessons/node-js-using-pm2-to-keep-your-node-apps-alive)  
+[“Lightning Talks” | .concat() 2015](https://www.youtube.com/watch?v=bx1bVJZueFw)
+
+Articles
+--------
+
+### March 10 ###
+[A Call For Web Developers To Deprecate Their CSS](https://medium.com/cool-code-pal/a-call-for-web-developers-to-deprecate-their-css-1f6430781393) by Jenn Schiffer  
+[This API is so Fetching!](https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/) by Nikhil Marathe  
+[Two React Tips](https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375) by Dan Abramov
+
+### March 11 ###
+[How to Improve Your Workflow With BrowserSync 2.0](http://www.sitepoint.com/improve-workflow-browsersync-2-0/) by Craig Buckler
+
+### March 12 ###
+[A Preview of Angular 2 and TypeScript in Visual Studio](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx) by Jordan Matthiesen  
+[Flow: Bounded Polymorphism](http://flowtype.org/blog/2015/03/12/Bounded-Polymorphism.html) by Avik Chaudhuri  
+[Hands-on Scala.js](http://lihaoyi.github.io/hands-on-scala-js/) by Scala.js team  
+[Serially Iterating An Array, Asynchronously](http://derickbailey.com/2015/03/12/serially-iterating-an-array-asynchronously/) by Derick Bailey  
+[Testing ReactJS Components with Karma and Webpack](https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack) by Justin Woo  
+[The Future of Drag and Drop APIs](https://medium.com/@dan_abramov/the-future-of-drag-and-drop-apis-249dfea7a15f) by Dan Abramov  
+[The Symmetry of JavaScript Functions (revised)](http://raganwald.com/2015/03/12/symmetry.html) by Reginald Braithwaite
+
+### March 13 ###
+[Avoiding Composability Issues With Angular 1 Directives](http://jaysoo.ca/2015/03/13/avoiding-composability-issues-with-angular-1-directives/) by Jack Hsu  
+[React goes head-to-head with Ember.js](http://www.creativebloq.com/web-design/react-goes-head-head-emberjs-31514361) by Alex Matchneer  
+[Three ReactJS + Flux commandments](http://kriswallsmith.net/post/113538449364/three-reactjs-flux-commandments) by Kris Wallsmith
+
+### March 16 ###
+[Backend Apps with Webpack: Part I](http://jlongster.com/Backend-Apps-with-Webpack--Part-I) by James Long  
+[Introduction to Communicating Sequential Processes in JavaScript](http://dialelo.github.io/introduction-to-communicating-sequential-processes-in-javascript.html) by Alejandro Gómez  
+[React Introduces Support for ES6 Classes](http://www.infoq.com/news/2015/03/react-es6-classes) by James Chesters  
+[Regular Expressions for the Rest of Us](http://davidwalsh.name/regular-expressions-rest) by Landon Schropp  
+[Revisiting Routing, Nested Views, And Caching With ngRoute In AngularJS 1.x](http://www.bennadel.com/blog/2801-revisiting-routing-nested-views-and-caching-with-ngroute-in-angularjs-1-x.htm) by Ben Nadel  
+[Speed up your angular app and get rid of sasqwatches](https://www.airpair.com/angularjs/tips-n-tricks/speed-up-your-angular-apps-and-rid-sasqwatches) by Scott Moss
+
+### March 17 ###
+[6 Node.js Static Site Generators](http://www.sitepoint.com/6-nodejs-static-site-generators/) by Ciara Burkett  
+[A Few Different Ways To Use SVG Sprites In Animation](http://www.smashingmagazine.com/2015/03/17/different-ways-to-use-svg-sprites-in-animation/) by Sarah Drasner  
+[Understanding Collisions and Physics with Babylon.js and Oimo.js](http://www.sitepoint.com/understanding-collisions-physics-babylon-js-oimo-js/) by David Rousset
+
+### March 18 ###
+[New JavaScript techniques for rapid page loads](http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html) by Marja Hölttä and Daniel Vogelheim    
+[Using Dependency Injection in Your JavaScript Unit Tests with Rewire](https://strongloop.com/strongblog/javascript-unit-testing-using-dependency-injection/) by Igor Ribeiro Lima  
+[Using Reactjs.net in Web Forms](http://xabikos.com/server%20side%20templating/web%20development/2015/03/18/using-reactjs.net-in-web-forms.html) by Charalampos Karypidis
+
+### March 19 ###
+[Building The Facebook News Feed With Relay](http://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html) by Joseph Savona  
+[Develop an iOS Application with Node.js and Cordova](http://modernweb.com/2015/03/19/develop-an-ios-application-with-node-js-and-cordova/) by Krzysztof Trzeciak  
+[Understanding ECMAScript 6: Class and Inheritance](http://www.sitepoint.com/understanding-ecmascript-6-class-inheritance/) by David Catuhe  
+[Using Web Workers with AngularJS](https://andywalpole.me/#!/blog/142677/using-web-workers-angularjs) by Andy Walpole  
+[Xplorers: a journey into React](http://x-team.com/2015/03/xplorers-journey-react/) by Josh Johnston
+
+### March 20 ###
+[Observation: ’import’ is hoisted](http://es-discourse.com/t/observation-import-is-hoisted/126) by Axel Rauschmayer  
+[SceneVR: Node and WebGL 3D Scenes](http://dailyjs.com/2015/03/20/scenevr/) by Alex Young
+
+### March 21 ###
+[Angular and i18n - The new world](http://blog.thoughtram.io/angular/2015/03/21/angular-and-i18n-the-new-world.html) by Pascal Precht  
+[Forms in Angular 2](http://angularjs.blogspot.ru/2015/03/forms-in-angular-2.html) by Victor Savkin  
+[Use Auth0 with React](https://auth0.com/docs/client-platforms/react) by Auth0 team
+
+Slides
+------
+
+[ng-conf 2015](https://docs.google.com/spreadsheets/d/1YrQgqOnpIrcUIT9Qa5-C1VBVnvQFTWUwCBD28WE-d7c/edit#gid=0)  
+[DevTools: State Of The Union 2015](https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015)
+
+Tools, libs
+-----------
+
+[a1atscript](https://github.com/hannahhoward/a1atscript) – the angular 2 polyfill  
+[advice.js](https://github.com/dwango-js/advice.js) – simple AOP module  
+[angular-ux](https://github.com/mgonto/angular-ux) – a library that helps you create live, navigable prototypes with the help of angular but without having to learn how to code  
+[AnyBar](https://github.com/tonsky/AnyBar) – osx menubar status indicator  
+[dna2json](https://github.com/genomejs/dna2json) – formats your genome file as json  
+[ember-magic-man](https://github.com/jacobthemyth/ember-magic-man) – a lightweight data persistence library for ember  
+[eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) – eslint plugin for angular applications  
+[eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) – react specific linting rules for eslint  
+[estoc](https://github.com/chrisdickinson/estoc) – a static analyzer for npm packages  
+[framerKit](https://github.com/raphdamico/framerKit) – iOS controls recreated in Framer, for your prototyping pleasure  
+[functional-javascript](https://github.com/jkup/functional-javascript) – a list of functional javascript resources  
+[generator-nm](https://github.com/sindresorhus/generator-nm) – scaffold out a node module  
+[ghfollowers](https://github.com/simplyianm/ghfollowers) – a service to get and receive GitHub followers  
+[github-add-collab](https://github.com/kevva/github-add-collab) – add collaborators to github repos  
+[github-token-user](https://github.com/kevva/github-token-user) – get the github user from a token  
+[hson-loader](https://github.com/kentcdodds/hson-loader) – hson-loader for webpack  
+[HTML-GL](https://github.com/PixelsCommander/HTML-GL) – get as many fps as you need and amazing effects by rendering html/css in webgl  
+[interlock](https://github.com/inversepath/interlock) – a file encryption front-end  
+[Ionic-Material](https://github.com/zachsoft/Ionic-Material) – seamless Material Design theme for Ionic  
+[isomorphic-todo](https://github.com/matsilva/isomorphic-todo) – proof of concept isomorphic examples  
+[jasmine-es6-promise-matchers](https://github.com/bvaughn/jasmine-es6-promise-matchers) – es6 promise compatible jasmine matchers  
+[js_data](https://github.com/vlandham/js_data) – data manipulation and processing in javascript  
+[jsConsoleApiReference](https://github.com/spmbt/jsConsoleApiReference) – reference of methods for the console object in various browsers and javascript environments  
+[kitematic](https://github.com/kitematic/kitematic) – a simple application for managing docker containers on osx  
+[link-bin](https://github.com/mafintosh/link-bin) – make bin scripts work local npm dependencies  
+[logdown](https://github.com/caiogondim/logdown) – a debug utility for the browser and the server with markdown support  
+[medium-style-confirm](https://github.com/brijeshb42/medium-style-confirm) – medium.com style confirm dialog  
+[meteor-template-inspector](https://github.com/gwendall/meteor-template-inspector) – inspector for Blaze templates  
+[nanybar](https://github.com/rumpl/nanybar) – control AnyBar from your node scripts  
+[newtab](https://github.com/jakke-korpelainen/newtab) – custom New Tab page  
+[node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) – boilerplate to kickstart creating a node module  
+[npmdl](https://github.com/hughsk/npmdl) – conveniently download files from npm packages  
+[os-locale](https://github.com/sindresorhus/os-locale) – get the system locale  
+[postcss-normalize-url](https://github.com/ben-eb/postcss-normalize-url) – normalize urls with PostCSS  
+[postcss-zindex](https://github.com/ben-eb/postcss-zindex) – reduce z-index values with PostCSS  
+[react-boilerplate](https://github.com/bloodyowl/react-boilerplate) – boilerplate for a react project  
+[react-es6](https://github.com/klaemo/react-es6) – react's official tutorial with es6 and browserify  
+[react-scaffold](https://github.com/daftdevelopers/react-scaffold) – an opinionated setup built on learnings from large applications  
+[react-toggle](https://github.com/instructure-react/react-toggle) – an elegant, accessible toggle component for react  
+[rmodal.js](https://github.com/zewish/rmodal.js) – a simple modal dialog with no external dependencies  
+[sequence-viewer](https://github.com/calipho-sib/sequence-viewer) – a protein sequence viewer with highlight and coverage capabilities written in javascript  
+[SnowPen](https://github.com/snookca/SnowPen) – chrome extension to copy inspected element html and css to codepen  
+[stringformatter](https://github.com/anywhichway/stringformatter) – an extensible, garbage collecting Javascript string formatter  
+[super-react](https://github.com/mtomcal/super-react) – opinionated command line tool for scaffolding out nested react components into files  
+[superagent-bluebird-promise](https://github.com/KyleAMathews/superagent-bluebird-promise) – add promise support to superagent using Bluebird  
+[textures](https://github.com/riccardoscalco/textures) – a javascript library for creating svg patterns  
+[to.is](https://github.com/lucastan/to.is) – data filtering, sanitization and validation library  
+[watchlist](https://github.com/teamstrobe/watchlist) – a movie list app built with react  
+[yarsk](https://github.com/bradleyboy/yarsk) – yet another react starter kit
+
+Updates
+-------
+
+[angular-aop 0.4.0](https://github.com/mgechev/angular-aop/#v040)  
+[eslint 0.17.1](http://eslint.org/blog/2015/03/eslint-0.17.1-released/)  
+[espree 1.12.0](https://github.com/eslint/espree/releases/tag/v1.12.0)  
+[iojs 1.6.0](https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-03-19-version-160-chrisdickinson)  
+[meteor 1.0.4](https://www.meteor.com/blog/2015/03/17/meteor-104-mongo-cordova-template-subscriptions)  
+[node v0.10.37](http://blog.nodejs.org/2015/03/14/node-v0-10-37-stable/)  
+[orbit.js 0.6.1](https://github.com/orbitjs/orbit.js/releases/tag/v0.6.1)  
+[protractor 2.0](https://github.com/angular/protractor/blob/master/CHANGELOG.md#200)  
+[react v0.13.1](http://facebook.github.io/react/blog/2015/03/16/react-v0.13.1.html)  
+[react-intl 1.2.0](https://github.com/yahoo/react-intl/)  
+[react-router 0.13.1](https://github.com/rackt/react-router/blob/master/CHANGELOG.md#v0131---fri-20-mar-2015-222157-gmt)
